@@ -329,17 +329,17 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 328	046	9	verb, normal	gde
 329	046	10	verb, normal	ende
 330	046	11	verb, normal	
-331	047	1	verb, normal	øye
-332	047	2	verb, normal	øyer
-333	047	3	verb, normal	øyes
-334	047	4	verb, normal	øgde
-335	047	5	verb, normal	øgd
-336	047	6	verb, normal	øgd
-337	047	7	verb, normal	øgd
-338	047	8	verb, normal	øgde
-339	047	9	verb, normal	øgde
-340	047	10	verb, normal	øyende
-341	047	11	verb, normal	øy
+331	047	1	verb, normal	Ã¸ye
+332	047	2	verb, normal	Ã¸yer
+333	047	3	verb, normal	Ã¸yes
+334	047	4	verb, normal	Ã¸gde
+335	047	5	verb, normal	Ã¸gd
+336	047	6	verb, normal	Ã¸gd
+337	047	7	verb, normal	Ã¸gd
+338	047	8	verb, normal	Ã¸gde
+339	047	9	verb, normal	Ã¸gde
+340	047	10	verb, normal	Ã¸yende
+341	047	11	verb, normal	Ã¸y
 342	048	1	verb, normal	
 343	048	2	verb, normal	r
 344	048	3	verb, normal	s
@@ -417,7 +417,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 416	060	9	verb, normal	u++e
 417	060	10	verb, normal	i++ende
 418	060	11	verb, normal	i++
-419	090	1	verb, ubøy	
+419	090	1	verb, ubÃ¸y	
 420	1001	1	forkorting	
 421	1002	1	prefiks	
 422	1003	1	i sammensetting	
@@ -532,50 +532,50 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 531	121	9	verb, normal	o+%te
 532	121	10	verb, normal	e+%ende
 533	121	11	verb, normal	e+%
-534	122	1	verb, normal	ø%e
-535	122	2	verb, normal	ø%er
-536	122	3	verb, normal	ø%es
+534	122	1	verb, normal	Ã¸%e
+535	122	2	verb, normal	Ã¸%er
+536	122	3	verb, normal	Ã¸%es
 537	122	4	verb, normal	u%te
 538	122	5	verb, normal	u%t
 539	122	6	verb, normal	u%t
 540	122	7	verb, normal	u%t
 541	122	8	verb, normal	u%te
 542	122	9	verb, normal	u%te
-543	122	10	verb, normal	ø%ende
-544	122	11	verb, normal	ø%
-545	123	1	verb, normal	ø++e
-546	123	2	verb, normal	ø+
-547	123	3	verb, normal	ø++es
+543	122	10	verb, normal	Ã¸%ende
+544	122	11	verb, normal	Ã¸%
+545	123	1	verb, normal	Ã¸++e
+546	123	2	verb, normal	Ã¸+
+547	123	3	verb, normal	Ã¸++es
 548	123	4	verb, normal	u+te
 549	123	5	verb, normal	u+t
 550	123	6	verb, normal	u+t
 551	123	7	verb, normal	u+t
 552	123	8	verb, normal	u+te
 553	123	9	verb, normal	u+te
-554	123	10	verb, normal	ø++ende
-555	123	11	verb, normal	ø+
-556	125	1	verb, normal	ø+%e
-557	125	2	verb, normal	ø+%er
-558	125	3	verb, normal	ø+%es
+554	123	10	verb, normal	Ã¸++ende
+555	123	11	verb, normal	Ã¸+
+556	125	1	verb, normal	Ã¸+%e
+557	125	2	verb, normal	Ã¸+%er
+558	125	3	verb, normal	Ã¸+%es
 559	125	4	verb, normal	u+%te
 560	125	5	verb, normal	u+%t
 561	125	6	verb, normal	u+%t
 562	125	7	verb, normal	u+%t
 563	125	8	verb, normal	u+%te
 564	125	9	verb, normal	u+%te
-565	125	10	verb, normal	ø+%ende
-566	125	11	verb, normal	ø+%
-567	126	1	verb, normal	øre
-568	126	2	verb, normal	ør
-569	126	3	verb, normal	øres
+565	125	10	verb, normal	Ã¸+%ende
+566	125	11	verb, normal	Ã¸+%
+567	126	1	verb, normal	Ã¸re
+568	126	2	verb, normal	Ã¸r
+569	126	3	verb, normal	Ã¸res
 570	126	4	verb, normal	orde
 571	126	5	verb, normal	ort
 572	126	6	verb, normal	ort
 573	126	7	verb, normal	ort
 574	126	8	verb, normal	orte
 575	126	9	verb, normal	orte
-576	126	10	verb, normal	ørende
-577	126	11	verb, normal	ør
+576	126	10	verb, normal	Ã¸rende
+577	126	11	verb, normal	Ã¸r
 578	151	1	verb, normal	i+e
 579	151	2	verb, normal	ei+
 580	151	3	verb, normal	i+es
@@ -601,12 +601,12 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 600	153	1	verb, normal	eie
 601	153	2	verb, normal	eier
 602	153	3	verb, normal	eies
-603	153	4	verb, normal	åtte
-604	153	5	verb, normal	ått
-605	153	6	verb, normal	ått
-606	153	7	verb, normal	ått
-607	153	8	verb, normal	åtte
-608	153	9	verb, normal	åtte
+603	153	4	verb, normal	Ã¥tte
+604	153	5	verb, normal	Ã¥tt
+605	153	6	verb, normal	Ã¥tt
+606	153	7	verb, normal	Ã¥tt
+607	153	8	verb, normal	Ã¥tte
+608	153	9	verb, normal	Ã¥tte
 609	153	10	verb, normal	eiende
 610	153	11	verb, normal	ei
 611	158	1	verb, normal	be
@@ -1208,7 +1208,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1207	214	1	verb, normal	by
 1208	214	2	verb, normal	byr
 1209	214	3	verb, normal	bys
-1210	214	4	verb, normal	bød
+1210	214	4	verb, normal	bÃ¸d
 1211	214	5	verb, normal	budt
 1212	214	6	verb, normal	budt
 1213	214	7	verb, normal	budt
@@ -1219,7 +1219,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1218	215	1	verb, normal	y%e
 1219	215	2	verb, normal	y%er
 1220	215	3	verb, normal	y%es
-1221	215	4	verb, normal	øy%
+1221	215	4	verb, normal	Ã¸y%
 1222	215	5	verb, normal	y%t
 1223	215	6	verb, normal	y%t
 1224	215	7	verb, normal	y%t
@@ -1230,51 +1230,51 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1229	216	1	verb, normal	y%e
 1230	216	2	verb, normal	y%er
 1231	216	3	verb, normal	y%es
-1232	216	4	verb, normal	øy%
-1233	216	5	verb, normal	ø%et
-1234	216	6	verb, normal	ø%et
-1235	216	7	verb, normal	ø%en
-1236	216	8	verb, normal	ø%ne
-1237	216	9	verb, normal	ø%ne
+1232	216	4	verb, normal	Ã¸y%
+1233	216	5	verb, normal	Ã¸%et
+1234	216	6	verb, normal	Ã¸%et
+1235	216	7	verb, normal	Ã¸%en
+1236	216	8	verb, normal	Ã¸%ne
+1237	216	9	verb, normal	Ã¸%ne
 1238	216	10	verb, normal	y%ende
 1239	216	11	verb, normal	y%
 1240	217	1	verb, normal	y%e
 1241	217	2	verb, normal	y%er
 1242	217	3	verb, normal	y%es
-1243	217	4	verb, normal	øy%
-1244	217	5	verb, normal	ø%et
-1245	217	6	verb, normal	ø%et
-1246	217	7	verb, normal	ø%et
-1247	217	8	verb, normal	ø%ne
-1248	217	9	verb, normal	ø%ne
+1243	217	4	verb, normal	Ã¸y%
+1244	217	5	verb, normal	Ã¸%et
+1245	217	6	verb, normal	Ã¸%et
+1246	217	7	verb, normal	Ã¸%et
+1247	217	8	verb, normal	Ã¸%ne
+1248	217	9	verb, normal	Ã¸%ne
 1249	217	10	verb, normal	y%ende
 1250	217	11	verb, normal	y%
 1251	218	1	verb, normal	y+e
 1252	218	2	verb, normal	y+er
 1253	218	3	verb, normal	y+es
-1254	218	4	verb, normal	ø+
-1255	218	5	verb, normal	ø+et
-1256	218	6	verb, normal	ø+et
-1257	218	7	verb, normal	ø+et
-1258	218	8	verb, normal	ø+ne
-1259	218	9	verb, normal	ø+ne
+1254	218	4	verb, normal	Ã¸+
+1255	218	5	verb, normal	Ã¸+et
+1256	218	6	verb, normal	Ã¸+et
+1257	218	7	verb, normal	Ã¸+et
+1258	218	8	verb, normal	Ã¸+ne
+1259	218	9	verb, normal	Ã¸+ne
 1260	218	10	verb, normal	y+ende
 1261	218	11	verb, normal	y+
 1262	219	1	verb, normal	y+e
 1263	219	2	verb, normal	y+er
 1264	219	3	verb, normal	y+es
 1265	219	4	verb, normal	au+
-1266	219	5	verb, normal	ø+et
-1267	219	6	verb, normal	ø+et
-1268	219	7	verb, normal	ø+et
-1269	219	8	verb, normal	ø+ne
-1270	219	9	verb, normal	ø+ne
+1266	219	5	verb, normal	Ã¸+et
+1267	219	6	verb, normal	Ã¸+et
+1268	219	7	verb, normal	Ã¸+et
+1269	219	8	verb, normal	Ã¸+ne
+1270	219	9	verb, normal	Ã¸+ne
 1271	219	10	verb, normal	y+ende
 1272	219	11	verb, normal	y+
 1273	21A	1	verb, normal	by
 1274	21A	2	verb, normal	byr
 1275	21A	3	verb, normal	bys
-1276	21A	4	verb, normal	bøy
+1276	21A	4	verb, normal	bÃ¸y
 1277	21A	5	verb, normal	budt
 1278	21A	6	verb, normal	budt
 1279	21A	7	verb, normal	budt
@@ -1285,7 +1285,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1284	21B	1	verb, normal	%y
 1285	21B	2	verb, normal	%yr
 1286	21B	3	verb, normal	%ys
-1287	21B	4	verb, normal	%øy
+1287	21B	4	verb, normal	%Ã¸y
 1288	21B	5	verb, normal	%ydd
 1289	21B	6	verb, normal	%ydd
 1290	21B	7	verb, normal	%ydd
@@ -1296,23 +1296,23 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1295	220	1	verb, normal	y+e
 1296	220	2	verb, normal	y+er
 1297	220	3	verb, normal	y+es
-1298	220	4	verb, normal	ø+
-1299	220	5	verb, normal	ø+et
-1300	220	6	verb, normal	ø+et
-1301	220	7	verb, normal	ø+en
-1302	220	8	verb, normal	ø+ne
-1303	220	9	verb, normal	ø+ne
+1298	220	4	verb, normal	Ã¸+
+1299	220	5	verb, normal	Ã¸+et
+1300	220	6	verb, normal	Ã¸+et
+1301	220	7	verb, normal	Ã¸+en
+1302	220	8	verb, normal	Ã¸+ne
+1303	220	9	verb, normal	Ã¸+ne
 1304	220	10	verb, normal	y+ende
 1305	220	11	verb, normal	y+
 1306	221	1	verb, normal	y+e
 1307	221	2	verb, normal	y+er
 1308	221	3	verb, normal	y+es
 1309	221	4	verb, normal	au+
-1310	221	5	verb, normal	ø+et
-1311	221	6	verb, normal	ø+et
-1312	221	7	verb, normal	ø+en
-1313	221	8	verb, normal	ø+ne
-1314	221	9	verb, normal	ø+ne
+1310	221	5	verb, normal	Ã¸+et
+1311	221	6	verb, normal	Ã¸+et
+1312	221	7	verb, normal	Ã¸+en
+1313	221	8	verb, normal	Ã¸+ne
+1314	221	9	verb, normal	Ã¸+ne
 1315	221	10	verb, normal	y+ende
 1316	221	11	verb, normal	y+
 1317	222	1	verb, normal	byde
@@ -1329,7 +1329,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1328	223	1	verb, normal	byde
 1329	223	2	verb, normal	byder
 1330	223	3	verb, normal	bydes
-1331	223	4	verb, normal	bød
+1331	223	4	verb, normal	bÃ¸d
 1332	223	5	verb, normal	budt
 1333	223	6	verb, normal	budt
 1334	223	7	verb, normal	budt
@@ -1340,7 +1340,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1339	224	1	verb, normal	byde
 1340	224	2	verb, normal	byder
 1341	224	3	verb, normal	bydes
-1342	224	4	verb, normal	bøy
+1342	224	4	verb, normal	bÃ¸y
 1343	224	5	verb, normal	budt
 1344	224	6	verb, normal	budt
 1345	224	7	verb, normal	budt
@@ -1351,7 +1351,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1350	225	1	verb, normal	byde
 1351	225	2	verb, normal	byder
 1352	225	3	verb, normal	bydes
-1353	225	4	verb, normal	bøy
+1353	225	4	verb, normal	bÃ¸y
 1354	225	5	verb, normal	bydd
 1355	225	6	verb, normal	bydd
 1356	225	7	verb, normal	bydd
@@ -1362,7 +1362,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1361	226	1	verb, normal	y+e
 1362	226	2	verb, normal	y+er
 1363	226	3	verb, normal	y+es
-1364	226	4	verb, normal	ø+
+1364	226	4	verb, normal	Ã¸+
 1365	226	5	verb, normal	o++et
 1366	226	6	verb, normal	o++et
 1367	226	7	verb, normal	o++et
@@ -1395,7 +1395,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1394	229	1	verb, normal	y+e
 1395	229	2	verb, normal	y+er
 1396	229	3	verb, normal	y+es
-1397	229	4	verb, normal	ø+
+1397	229	4	verb, normal	Ã¸+
 1398	229	5	verb, normal	o++et
 1399	229	6	verb, normal	o++et
 1400	229	7	verb, normal	o++en
@@ -1406,7 +1406,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1405	22A	1	verb, normal	y+e
 1406	22A	2	verb, normal	y+er
 1407	22A	3	verb, normal	y+es
-1408	22A	4	verb, normal	øy+
+1408	22A	4	verb, normal	Ã¸y+
 1409	22A	5	verb, normal	o++et
 1410	22A	6	verb, normal	o++et
 1411	22A	7	verb, normal	o++et
@@ -1417,7 +1417,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1416	22B	1	verb, normal	y+e
 1417	22B	2	verb, normal	y+er
 1418	22B	3	verb, normal	y+es
-1419	22B	4	verb, normal	øy+
+1419	22B	4	verb, normal	Ã¸y+
 1420	22B	5	verb, normal	o++et
 1421	22B	6	verb, normal	o++et
 1422	22B	7	verb, normal	o++en
@@ -1439,7 +1439,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1438	231	1	verb, normal	y+e
 1439	231	2	verb, normal	y+er
 1440	231	3	verb, normal	y+es
-1441	231	4	verb, normal	ø+
+1441	231	4	verb, normal	Ã¸+
 1442	231	5	verb, normal	y++
 1443	231	6	verb, normal	y++
 1444	231	7	verb, normal	y++
@@ -1461,7 +1461,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1460	233	1	verb, normal	y+e
 1461	233	2	verb, normal	y+er
 1462	233	3	verb, normal	y+es
-1463	233	4	verb, normal	jø+
+1463	233	4	verb, normal	jÃ¸+
 1464	233	5	verb, normal	u++
 1465	233	6	verb, normal	u++
 1466	233	7	verb, normal	u++
@@ -1472,7 +1472,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1471	234	1	verb, normal	y+e
 1472	234	2	verb, normal	y+er
 1473	234	3	verb, normal	y+es
-1474	234	4	verb, normal	ø+
+1474	234	4	verb, normal	Ã¸+
 1475	234	5	verb, normal	u++
 1476	234	6	verb, normal	u++
 1477	234	7	verb, normal	u++
@@ -1505,7 +1505,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1504	237	1	verb, normal	y+e
 1505	237	2	verb, normal	y+er
 1506	237	3	verb, normal	y+es
-1507	237	4	verb, normal	ø+
+1507	237	4	verb, normal	Ã¸+
 1508	237	5	verb, normal	y+t
 1509	237	6	verb, normal	y+t
 1510	237	7	verb, normal	y+t
@@ -1516,29 +1516,29 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1515	238	1	verb, normal	y+e
 1516	238	2	verb, normal	y+er
 1517	238	3	verb, normal	y+es
-1518	238	4	verb, normal	jø+
-1519	238	5	verb, normal	jø+et
-1520	238	6	verb, normal	jø+et
-1521	238	7	verb, normal	jø+et
-1522	238	8	verb, normal	jø+ne
-1523	238	9	verb, normal	jø+ne
+1518	238	4	verb, normal	jÃ¸+
+1519	238	5	verb, normal	jÃ¸+et
+1520	238	6	verb, normal	jÃ¸+et
+1521	238	7	verb, normal	jÃ¸+et
+1522	238	8	verb, normal	jÃ¸+ne
+1523	238	9	verb, normal	jÃ¸+ne
 1524	238	10	verb, normal	y+ende
 1525	238	11	verb, normal	y+
 1526	239	1	verb, normal	y+e
 1527	239	2	verb, normal	y+er
 1528	239	3	verb, normal	y+es
 1529	239	4	verb, normal	au+
-1530	239	5	verb, normal	jø+et
-1531	239	6	verb, normal	jø+et
-1532	239	7	verb, normal	jø+et
-1533	239	8	verb, normal	jø+ne
-1534	239	9	verb, normal	jø+ne
+1530	239	5	verb, normal	jÃ¸+et
+1531	239	6	verb, normal	jÃ¸+et
+1532	239	7	verb, normal	jÃ¸+et
+1533	239	8	verb, normal	jÃ¸+ne
+1534	239	9	verb, normal	jÃ¸+ne
 1535	239	10	verb, normal	y+ende
 1536	239	11	verb, normal	y+
 1537	23A	1	verb, normal	y+e
 1538	23A	2	verb, normal	y+er
 1539	23A	3	verb, normal	y+es
-1540	23A	4	verb, normal	øy+
+1540	23A	4	verb, normal	Ã¸y+
 1541	23A	5	verb, normal	u++
 1542	23A	6	verb, normal	u++
 1543	23A	7	verb, normal	u++
@@ -1549,7 +1549,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1548	23B	1	verb, normal	y+e
 1549	23B	2	verb, normal	y+er
 1550	23B	3	verb, normal	y+es
-1551	23B	4	verb, normal	øy+
+1551	23B	4	verb, normal	Ã¸y+
 1552	23B	5	verb, normal	y+d
 1553	23B	6	verb, normal	y+d
 1554	23B	7	verb, normal	y+d
@@ -1560,45 +1560,45 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1559	240	1	verb, normal	y+e
 1560	240	2	verb, normal	y+er
 1561	240	3	verb, normal	y+es
-1562	240	4	verb, normal	jø+
-1563	240	5	verb, normal	jø+et
-1564	240	6	verb, normal	jø+et
-1565	240	7	verb, normal	jø+en
-1566	240	8	verb, normal	jø+ne
-1567	240	9	verb, normal	jø+ne
+1562	240	4	verb, normal	jÃ¸+
+1563	240	5	verb, normal	jÃ¸+et
+1564	240	6	verb, normal	jÃ¸+et
+1565	240	7	verb, normal	jÃ¸+en
+1566	240	8	verb, normal	jÃ¸+ne
+1567	240	9	verb, normal	jÃ¸+ne
 1568	240	10	verb, normal	y+ende
 1569	240	11	verb, normal	y+
 1570	241	1	verb, normal	y+e
 1571	241	2	verb, normal	y+er
 1572	241	3	verb, normal	y+es
 1573	241	4	verb, normal	au+
-1574	241	5	verb, normal	jø+et
-1575	241	6	verb, normal	jø+et
-1576	241	7	verb, normal	jø+en
-1577	241	8	verb, normal	jø+ne
-1578	241	9	verb, normal	jø+ne
+1574	241	5	verb, normal	jÃ¸+et
+1575	241	6	verb, normal	jÃ¸+et
+1576	241	7	verb, normal	jÃ¸+en
+1577	241	8	verb, normal	jÃ¸+ne
+1578	241	9	verb, normal	jÃ¸+ne
 1579	241	10	verb, normal	y+ende
 1580	241	11	verb, normal	y+
 1581	242	1	verb, normal	y
 1582	242	2	verb, normal	yr
 1583	242	3	verb, normal	ys
-1584	242	4	verb, normal	øy
-1585	242	5	verb, normal	øyet
-1586	242	6	verb, normal	øyet
-1587	242	7	verb, normal	øyet
-1588	242	8	verb, normal	øyne
-1589	242	9	verb, normal	øyne
+1584	242	4	verb, normal	Ã¸y
+1585	242	5	verb, normal	Ã¸yet
+1586	242	6	verb, normal	Ã¸yet
+1587	242	7	verb, normal	Ã¸yet
+1588	242	8	verb, normal	Ã¸yne
+1589	242	9	verb, normal	Ã¸yne
 1590	242	10	verb, normal	yende
 1591	242	11	verb, normal	y
 1592	243	1	verb, normal	y
 1593	243	2	verb, normal	yr
 1594	243	3	verb, normal	ys
-1595	243	4	verb, normal	øy
-1596	243	5	verb, normal	øyet
-1597	243	6	verb, normal	øyet
-1598	243	7	verb, normal	øyen
-1599	243	8	verb, normal	øyne
-1600	243	9	verb, normal	øyne
+1595	243	4	verb, normal	Ã¸y
+1596	243	5	verb, normal	Ã¸yet
+1597	243	6	verb, normal	Ã¸yet
+1598	243	7	verb, normal	Ã¸yen
+1599	243	8	verb, normal	Ã¸yne
+1600	243	9	verb, normal	Ã¸yne
 1601	243	10	verb, normal	yende
 1602	243	11	verb, normal	y
 1603	244	1	verb, normal	y
@@ -1615,23 +1615,23 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1614	245	1	verb, normal	y+e
 1615	245	2	verb, normal	y+er
 1616	245	3	verb, normal	y+es
-1617	245	4	verb, normal	øy
-1618	245	5	verb, normal	øyet
-1619	245	6	verb, normal	øyet
-1620	245	7	verb, normal	øyet
-1621	245	8	verb, normal	øyne
-1622	245	9	verb, normal	øyne
+1617	245	4	verb, normal	Ã¸y
+1618	245	5	verb, normal	Ã¸yet
+1619	245	6	verb, normal	Ã¸yet
+1620	245	7	verb, normal	Ã¸yet
+1621	245	8	verb, normal	Ã¸yne
+1622	245	9	verb, normal	Ã¸yne
 1623	245	10	verb, normal	y+ende
 1624	245	11	verb, normal	y+
 1625	246	1	verb, normal	y+e
 1626	246	2	verb, normal	y+er
 1627	246	3	verb, normal	y+es
-1628	246	4	verb, normal	øy
-1629	246	5	verb, normal	øyet
-1630	246	6	verb, normal	øyet
-1631	246	7	verb, normal	øyen
-1632	246	8	verb, normal	øyne
-1633	246	9	verb, normal	øyne
+1628	246	4	verb, normal	Ã¸y
+1629	246	5	verb, normal	Ã¸yet
+1630	246	6	verb, normal	Ã¸yet
+1631	246	7	verb, normal	Ã¸yen
+1632	246	8	verb, normal	Ã¸yne
+1633	246	9	verb, normal	Ã¸yne
 1634	246	10	verb, normal	y+ende
 1635	246	11	verb, normal	y+
 1636	247	1	verb, normal	y+e
@@ -1648,7 +1648,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1647	248	1	verb, normal	y+e
 1648	248	2	verb, normal	y+er
 1649	248	3	verb, normal	y+es
-1650	248	4	verb, normal	jø+
+1650	248	4	verb, normal	jÃ¸+
 1651	248	5	verb, normal	y++
 1652	248	6	verb, normal	y++
 1653	248	7	verb, normal	y++
@@ -1660,94 +1660,94 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1659	249	2	verb, normal	y+er
 1660	249	3	verb, normal	y+es
 1661	249	4	verb, normal	au+
-1662	249	5	verb, normal	øyet
-1663	249	6	verb, normal	øyet
-1664	249	7	verb, normal	øyet
-1665	249	8	verb, normal	øyne
-1666	249	9	verb, normal	øyne
+1662	249	5	verb, normal	Ã¸yet
+1663	249	6	verb, normal	Ã¸yet
+1664	249	7	verb, normal	Ã¸yet
+1665	249	8	verb, normal	Ã¸yne
+1666	249	9	verb, normal	Ã¸yne
 1667	249	10	verb, normal	y+ende
 1668	249	11	verb, normal	y+
 1669	24A	1	verb, normal	y+e
 1670	24A	2	verb, normal	y+er
 1671	24A	3	verb, normal	y+es
-1672	24A	4	verb, normal	øy+
-1673	24A	5	verb, normal	jø+et
-1674	24A	6	verb, normal	jø+et
-1675	24A	7	verb, normal	jø+et
-1676	24A	8	verb, normal	jø+ne
-1677	24A	9	verb, normal	jø+ne
+1672	24A	4	verb, normal	Ã¸y+
+1673	24A	5	verb, normal	jÃ¸+et
+1674	24A	6	verb, normal	jÃ¸+et
+1675	24A	7	verb, normal	jÃ¸+et
+1676	24A	8	verb, normal	jÃ¸+ne
+1677	24A	9	verb, normal	jÃ¸+ne
 1678	24A	10	verb, normal	y+ende
 1679	24A	11	verb, normal	y+
 1680	24B	1	verb, normal	y+e
 1681	24B	2	verb, normal	y+er
 1682	24B	3	verb, normal	y+es
-1683	24B	4	verb, normal	øy+
-1684	24B	5	verb, normal	jø+et
-1685	24B	6	verb, normal	jø+et
-1686	24B	7	verb, normal	jø+en
-1687	24B	8	verb, normal	jø+ne
-1688	24B	9	verb, normal	jø+ne
+1683	24B	4	verb, normal	Ã¸y+
+1684	24B	5	verb, normal	jÃ¸+et
+1685	24B	6	verb, normal	jÃ¸+et
+1686	24B	7	verb, normal	jÃ¸+en
+1687	24B	8	verb, normal	jÃ¸+ne
+1688	24B	9	verb, normal	jÃ¸+ne
 1689	24B	10	verb, normal	y+ende
 1690	24B	11	verb, normal	y+
 1691	250	1	verb, normal	y+e
 1692	250	2	verb, normal	y+er
 1693	250	3	verb, normal	y+es
 1694	250	4	verb, normal	au+
-1695	250	5	verb, normal	øyet
-1696	250	6	verb, normal	øyet
-1697	250	7	verb, normal	øyen
-1698	250	8	verb, normal	øyne
-1699	250	9	verb, normal	øyne
+1695	250	5	verb, normal	Ã¸yet
+1696	250	6	verb, normal	Ã¸yet
+1697	250	7	verb, normal	Ã¸yen
+1698	250	8	verb, normal	Ã¸yne
+1699	250	9	verb, normal	Ã¸yne
 1700	250	10	verb, normal	y+ende
 1701	250	11	verb, normal	y+
 1702	251	1	verb, normal	ju+e
 1703	251	2	verb, normal	ju+er
 1704	251	3	verb, normal	ju+es
-1705	251	4	verb, normal	øy
-1706	251	5	verb, normal	øyet
-1707	251	6	verb, normal	øyet
-1708	251	7	verb, normal	øyet
-1709	251	8	verb, normal	øyne
-1710	251	9	verb, normal	øyne
+1705	251	4	verb, normal	Ã¸y
+1706	251	5	verb, normal	Ã¸yet
+1707	251	6	verb, normal	Ã¸yet
+1708	251	7	verb, normal	Ã¸yet
+1709	251	8	verb, normal	Ã¸yne
+1710	251	9	verb, normal	Ã¸yne
 1711	251	10	verb, normal	ju+ende
 1712	251	11	verb, normal	ju+
 1713	252	1	verb, normal	ju+e
 1714	252	2	verb, normal	ju+er
 1715	252	3	verb, normal	ju+es
 1716	252	4	verb, normal	au+
-1717	252	5	verb, normal	øyet
-1718	252	6	verb, normal	øyet
-1719	252	7	verb, normal	øyet
-1720	252	8	verb, normal	øyne
-1721	252	9	verb, normal	øyne
+1717	252	5	verb, normal	Ã¸yet
+1718	252	6	verb, normal	Ã¸yet
+1719	252	7	verb, normal	Ã¸yet
+1720	252	8	verb, normal	Ã¸yne
+1721	252	9	verb, normal	Ã¸yne
 1722	252	10	verb, normal	ju+ende
 1723	252	11	verb, normal	ju+
 1724	253	1	verb, normal	ju+e
 1725	253	2	verb, normal	ju+er
 1726	253	3	verb, normal	ju+es
-1727	253	4	verb, normal	øy
-1728	253	5	verb, normal	øyet
-1729	253	6	verb, normal	øyet
-1730	253	7	verb, normal	øyen
-1731	253	8	verb, normal	øyne
-1732	253	9	verb, normal	øyne
+1727	253	4	verb, normal	Ã¸y
+1728	253	5	verb, normal	Ã¸yet
+1729	253	6	verb, normal	Ã¸yet
+1730	253	7	verb, normal	Ã¸yen
+1731	253	8	verb, normal	Ã¸yne
+1732	253	9	verb, normal	Ã¸yne
 1733	253	10	verb, normal	ju+ende
 1734	253	11	verb, normal	ju+
 1735	254	1	verb, normal	ju+e
 1736	254	2	verb, normal	ju+er
 1737	254	3	verb, normal	ju+es
 1738	254	4	verb, normal	au+
-1739	254	5	verb, normal	øyet
-1740	254	6	verb, normal	øyet
-1741	254	7	verb, normal	øyen
-1742	254	8	verb, normal	øyne
-1743	254	9	verb, normal	øyne
+1739	254	5	verb, normal	Ã¸yet
+1740	254	6	verb, normal	Ã¸yet
+1741	254	7	verb, normal	Ã¸yen
+1742	254	8	verb, normal	Ã¸yne
+1743	254	9	verb, normal	Ã¸yne
 1744	254	10	verb, normal	ju+ende
 1745	254	11	verb, normal	ju+
 1746	255	1	verb, normal	y+e
 1747	255	2	verb, normal	y+er
 1748	255	3	verb, normal	y+es
-1749	255	4	verb, normal	jø+
+1749	255	4	verb, normal	jÃ¸+
 1750	255	5	verb, normal	y+d
 1751	255	6	verb, normal	y+d
 1752	255	7	verb, normal	y+d
@@ -1758,7 +1758,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1757	255A	1	verb, normal	y+e
 1758	255A	2	verb, normal	y+er
 1759	255A	3	verb, normal	y+es
-1760	255A	4	verb, normal	jø+
+1760	255A	4	verb, normal	jÃ¸+
 1761	255A	5	verb, normal	y+t
 1762	255A	6	verb, normal	y+t
 1763	255A	7	verb, normal	y+t
@@ -1813,7 +1813,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 1812	25A	1	verb, normal	y
 1813	25A	2	verb, normal	yr
 1814	25A	3	verb, normal	ys
-1815	25A	4	verb, normal	ød
+1815	25A	4	verb, normal	Ã¸d
 1816	25A	5	verb, normal	ydd
 1817	25A	6	verb, normal	ydd
 1818	25A	7	verb, normal	ydd
@@ -2019,39 +2019,39 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2018	274	9	verb, normal	i+de
 2019	274	10	verb, normal	i++ende
 2020	274	11	verb, normal	i++
-2021	275	1	verb, normal	ø++e
-2022	275	2	verb, normal	ø++er
-2023	275	3	verb, normal	ø++es
+2021	275	1	verb, normal	Ã¸++e
+2022	275	2	verb, normal	Ã¸++er
+2023	275	3	verb, normal	Ã¸++es
 2024	275	4	verb, normal	o++
-2025	275	5	verb, normal	ø++et
-2026	275	6	verb, normal	ø++et
-2027	275	7	verb, normal	ø++et
-2028	275	8	verb, normal	ø+ne
-2029	275	9	verb, normal	ø+ne
-2030	275	10	verb, normal	ø++ende
-2031	275	11	verb, normal	ø++
-2032	276	1	verb, normal	ø++e
-2033	276	2	verb, normal	ø++er
-2034	276	3	verb, normal	ø++es
+2025	275	5	verb, normal	Ã¸++et
+2026	275	6	verb, normal	Ã¸++et
+2027	275	7	verb, normal	Ã¸++et
+2028	275	8	verb, normal	Ã¸+ne
+2029	275	9	verb, normal	Ã¸+ne
+2030	275	10	verb, normal	Ã¸++ende
+2031	275	11	verb, normal	Ã¸++
+2032	276	1	verb, normal	Ã¸++e
+2033	276	2	verb, normal	Ã¸++er
+2034	276	3	verb, normal	Ã¸++es
 2035	276	4	verb, normal	o++
-2036	276	5	verb, normal	ø++et
-2037	276	6	verb, normal	ø++et
-2038	276	7	verb, normal	ø++en
-2039	276	8	verb, normal	ø+ne
-2040	276	9	verb, normal	ø+ne
-2041	276	10	verb, normal	ø++ende
-2042	276	11	verb, normal	ø++
-2043	277	1	verb, normal	ø++e
-2044	277	2	verb, normal	ø++er
-2045	277	3	verb, normal	ø++es
+2036	276	5	verb, normal	Ã¸++et
+2037	276	6	verb, normal	Ã¸++et
+2038	276	7	verb, normal	Ã¸++en
+2039	276	8	verb, normal	Ã¸+ne
+2040	276	9	verb, normal	Ã¸+ne
+2041	276	10	verb, normal	Ã¸++ende
+2042	276	11	verb, normal	Ã¸++
+2043	277	1	verb, normal	Ã¸++e
+2044	277	2	verb, normal	Ã¸++er
+2045	277	3	verb, normal	Ã¸++es
 2046	277	4	verb, normal	o++
-2047	277	5	verb, normal	ø+t
-2048	277	6	verb, normal	ø+t
-2049	277	7	verb, normal	ø+t
-2050	277	8	verb, normal	ø+te
-2051	277	9	verb, normal	ø+te
-2052	277	10	verb, normal	ø++ende
-2053	277	11	verb, normal	ø++
+2047	277	5	verb, normal	Ã¸+t
+2048	277	6	verb, normal	Ã¸+t
+2049	277	7	verb, normal	Ã¸+t
+2050	277	8	verb, normal	Ã¸+te
+2051	277	9	verb, normal	Ã¸+te
+2052	277	10	verb, normal	Ã¸++ende
+2053	277	11	verb, normal	Ã¸++
 2054	278	1	verb, normal	o+%e
 2055	278	2	verb, normal	o+%er
 2056	278	3	verb, normal	o+%es
@@ -2063,61 +2063,61 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2062	278	9	verb, normal	o+%te
 2063	278	10	verb, normal	o+%ende
 2064	278	11	verb, normal	o+%
-2065	279	1	verb, normal	å
-2066	279	2	verb, normal	år
-2067	279	3	verb, normal	ås
+2065	279	1	verb, normal	Ã¥
+2066	279	2	verb, normal	Ã¥r
+2067	279	3	verb, normal	Ã¥s
 2068	279	4	verb, normal	ikk
-2069	279	5	verb, normal	ått
-2070	279	6	verb, normal	ått
-2071	279	7	verb, normal	ått
-2072	279	8	verb, normal	åtte
-2073	279	9	verb, normal	åtte
-2074	279	10	verb, normal	ående
-2075	279	11	verb, normal	å
-2076	27A	1	verb, normal	ø++e
-2077	27A	2	verb, normal	ø++er
-2078	27A	3	verb, normal	ø++es
-2079	27A	4	verb, normal	ø++
-2080	27A	5	verb, normal	ø++et
-2081	27A	6	verb, normal	ø++et
-2082	27A	7	verb, normal	ø++et
-2083	27A	8	verb, normal	ø+ne
-2084	27A	9	verb, normal	ø+ne
-2085	27A	10	verb, normal	ø++ende
-2086	27A	11	verb, normal	ø++
-2087	27B	1	verb, normal	ø++e
-2088	27B	2	verb, normal	ø++er
-2089	27B	3	verb, normal	ø++es
-2090	27B	4	verb, normal	ø++
-2091	27B	5	verb, normal	ø++et
-2092	27B	6	verb, normal	ø++et
-2093	27B	7	verb, normal	ø++en
-2094	27B	8	verb, normal	ø+ne
-2095	27B	9	verb, normal	ø+ne
-2096	27B	10	verb, normal	ø++ende
-2097	27B	11	verb, normal	ø++
-2098	27C	1	verb, normal	ø++e
-2099	27C	2	verb, normal	ø++er
-2100	27C	3	verb, normal	ø++es
-2101	27C	4	verb, normal	ø++
-2102	27C	5	verb, normal	ø+t
-2103	27C	6	verb, normal	ø+t
-2104	27C	7	verb, normal	ø+t
-2105	27C	8	verb, normal	ø+te
-2106	27C	9	verb, normal	ø+te
-2107	27C	10	verb, normal	ø++ende
-2108	27C	11	verb, normal	ø++
-2109	280	1	verb, normal	å
-2110	280	2	verb, normal	år
-2111	280	3	verb, normal	åes
+2069	279	5	verb, normal	Ã¥tt
+2070	279	6	verb, normal	Ã¥tt
+2071	279	7	verb, normal	Ã¥tt
+2072	279	8	verb, normal	Ã¥tte
+2073	279	9	verb, normal	Ã¥tte
+2074	279	10	verb, normal	Ã¥ende
+2075	279	11	verb, normal	Ã¥
+2076	27A	1	verb, normal	Ã¸++e
+2077	27A	2	verb, normal	Ã¸++er
+2078	27A	3	verb, normal	Ã¸++es
+2079	27A	4	verb, normal	Ã¸++
+2080	27A	5	verb, normal	Ã¸++et
+2081	27A	6	verb, normal	Ã¸++et
+2082	27A	7	verb, normal	Ã¸++et
+2083	27A	8	verb, normal	Ã¸+ne
+2084	27A	9	verb, normal	Ã¸+ne
+2085	27A	10	verb, normal	Ã¸++ende
+2086	27A	11	verb, normal	Ã¸++
+2087	27B	1	verb, normal	Ã¸++e
+2088	27B	2	verb, normal	Ã¸++er
+2089	27B	3	verb, normal	Ã¸++es
+2090	27B	4	verb, normal	Ã¸++
+2091	27B	5	verb, normal	Ã¸++et
+2092	27B	6	verb, normal	Ã¸++et
+2093	27B	7	verb, normal	Ã¸++en
+2094	27B	8	verb, normal	Ã¸+ne
+2095	27B	9	verb, normal	Ã¸+ne
+2096	27B	10	verb, normal	Ã¸++ende
+2097	27B	11	verb, normal	Ã¸++
+2098	27C	1	verb, normal	Ã¸++e
+2099	27C	2	verb, normal	Ã¸++er
+2100	27C	3	verb, normal	Ã¸++es
+2101	27C	4	verb, normal	Ã¸++
+2102	27C	5	verb, normal	Ã¸+t
+2103	27C	6	verb, normal	Ã¸+t
+2104	27C	7	verb, normal	Ã¸+t
+2105	27C	8	verb, normal	Ã¸+te
+2106	27C	9	verb, normal	Ã¸+te
+2107	27C	10	verb, normal	Ã¸++ende
+2108	27C	11	verb, normal	Ã¸++
+2109	280	1	verb, normal	Ã¥
+2110	280	2	verb, normal	Ã¥r
+2111	280	3	verb, normal	Ã¥es
 2112	280	4	verb, normal	ikk
-2113	280	5	verb, normal	ått
-2114	280	6	verb, normal	ått
-2115	280	7	verb, normal	ått
-2116	280	8	verb, normal	åtte
-2117	280	9	verb, normal	åtte
-2118	280	10	verb, normal	ående
-2119	280	11	verb, normal	å
+2113	280	5	verb, normal	Ã¥tt
+2114	280	6	verb, normal	Ã¥tt
+2115	280	7	verb, normal	Ã¥tt
+2116	280	8	verb, normal	Ã¥tte
+2117	280	9	verb, normal	Ã¥tte
+2118	280	10	verb, normal	Ã¥ende
+2119	280	11	verb, normal	Ã¥
 2120	281	1	verb, normal	e++e
 2121	281	2	verb, normal	e++er
 2122	281	3	verb, normal	e++es
@@ -2206,50 +2206,50 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2205	288	9	verb, normal	e+ne
 2206	288	10	verb, normal	e++ende
 2207	288	11	verb, normal	e++
-2208	289	1	verb, normal	å
-2209	289	2	verb, normal	år
-2210	289	3	verb, normal	ås
+2208	289	1	verb, normal	Ã¥
+2209	289	2	verb, normal	Ã¥r
+2210	289	3	verb, normal	Ã¥s
 2211	289	4	verb, normal	o
-2212	289	5	verb, normal	ått
-2213	289	6	verb, normal	ått
-2214	289	7	verb, normal	ått
-2215	289	8	verb, normal	åtte
-2216	289	9	verb, normal	åtte
-2217	289	10	verb, normal	ående
-2218	289	11	verb, normal	å
-2219	290	1	verb, normal	å
-2220	290	2	verb, normal	år
-2221	290	3	verb, normal	åes
+2212	289	5	verb, normal	Ã¥tt
+2213	289	6	verb, normal	Ã¥tt
+2214	289	7	verb, normal	Ã¥tt
+2215	289	8	verb, normal	Ã¥tte
+2216	289	9	verb, normal	Ã¥tte
+2217	289	10	verb, normal	Ã¥ende
+2218	289	11	verb, normal	Ã¥
+2219	290	1	verb, normal	Ã¥
+2220	290	2	verb, normal	Ã¥r
+2221	290	3	verb, normal	Ã¥es
 2222	290	4	verb, normal	o
-2223	290	5	verb, normal	ått
-2224	290	6	verb, normal	ått
-2225	290	7	verb, normal	ått
-2226	290	8	verb, normal	åtte
-2227	290	9	verb, normal	åtte
-2228	290	10	verb, normal	ående
-2229	290	11	verb, normal	å
-2230	291	1	verb, normal	ø++e
-2231	291	2	verb, normal	ø++er
-2232	291	3	verb, normal	ø++es
+2223	290	5	verb, normal	Ã¥tt
+2224	290	6	verb, normal	Ã¥tt
+2225	290	7	verb, normal	Ã¥tt
+2226	290	8	verb, normal	Ã¥tte
+2227	290	9	verb, normal	Ã¥tte
+2228	290	10	verb, normal	Ã¥ende
+2229	290	11	verb, normal	Ã¥
+2230	291	1	verb, normal	Ã¸++e
+2231	291	2	verb, normal	Ã¸++er
+2232	291	3	verb, normal	Ã¸++es
 2233	291	4	verb, normal	a++
-2234	291	5	verb, normal	ø++et
-2235	291	6	verb, normal	ø++et
-2236	291	7	verb, normal	ø++et
-2237	291	8	verb, normal	ø+ne
-2238	291	9	verb, normal	ø+ne
-2239	291	10	verb, normal	ø++ende
-2240	291	11	verb, normal	ø++
-2241	292	1	verb, normal	ø++e
-2242	292	2	verb, normal	ø++er
-2243	292	3	verb, normal	ø++es
+2234	291	5	verb, normal	Ã¸++et
+2235	291	6	verb, normal	Ã¸++et
+2236	291	7	verb, normal	Ã¸++et
+2237	291	8	verb, normal	Ã¸+ne
+2238	291	9	verb, normal	Ã¸+ne
+2239	291	10	verb, normal	Ã¸++ende
+2240	291	11	verb, normal	Ã¸++
+2241	292	1	verb, normal	Ã¸++e
+2242	292	2	verb, normal	Ã¸++er
+2243	292	3	verb, normal	Ã¸++es
 2244	292	4	verb, normal	a++
-2245	292	5	verb, normal	ø++et
-2246	292	6	verb, normal	ø++et
-2247	292	7	verb, normal	ø++en
-2248	292	8	verb, normal	ø+ne
-2249	292	9	verb, normal	ø+ne
-2250	292	10	verb, normal	ø++ende
-2251	292	11	verb, normal	ø++
+2245	292	5	verb, normal	Ã¸++et
+2246	292	6	verb, normal	Ã¸++et
+2247	292	7	verb, normal	Ã¸++en
+2248	292	8	verb, normal	Ã¸+ne
+2249	292	9	verb, normal	Ã¸+ne
+2250	292	10	verb, normal	Ã¸++ende
+2251	292	11	verb, normal	Ã¸++
 2252	293	1	verb, normal	e++e
 2253	293	2	verb, normal	e++er
 2254	293	3	verb, normal	e++es
@@ -2283,94 +2283,94 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2282	295	9	verb, normal	u+te
 2283	295	10	verb, normal	u+ende
 2284	295	11	verb, normal	u+
-2285	296	1	verb, normal	å
-2286	296	2	verb, normal	år
-2287	296	3	verb, normal	ås
+2285	296	1	verb, normal	Ã¥
+2286	296	2	verb, normal	Ã¥r
+2287	296	3	verb, normal	Ã¥s
 2288	296	4	verb, normal	ekk
-2289	296	5	verb, normal	ått
-2290	296	6	verb, normal	ått
-2291	296	7	verb, normal	ått
-2292	296	8	verb, normal	åtte
-2293	296	9	verb, normal	åtte
-2294	296	10	verb, normal	ående
-2295	296	11	verb, normal	å
-2296	297	1	verb, normal	å
-2297	297	2	verb, normal	år
-2298	297	3	verb, normal	åes
+2289	296	5	verb, normal	Ã¥tt
+2290	296	6	verb, normal	Ã¥tt
+2291	296	7	verb, normal	Ã¥tt
+2292	296	8	verb, normal	Ã¥tte
+2293	296	9	verb, normal	Ã¥tte
+2294	296	10	verb, normal	Ã¥ende
+2295	296	11	verb, normal	Ã¥
+2296	297	1	verb, normal	Ã¥
+2297	297	2	verb, normal	Ã¥r
+2298	297	3	verb, normal	Ã¥es
 2299	297	4	verb, normal	ekk
-2300	297	5	verb, normal	ått
-2301	297	6	verb, normal	ått
-2302	297	7	verb, normal	ått
-2303	297	8	verb, normal	åtte
-2304	297	9	verb, normal	åtte
-2305	297	10	verb, normal	ående
-2306	297	11	verb, normal	å
-2307	298	1	verb, normal	å
-2308	298	2	verb, normal	år
-2309	298	3	verb, normal	ås
+2300	297	5	verb, normal	Ã¥tt
+2301	297	6	verb, normal	Ã¥tt
+2302	297	7	verb, normal	Ã¥tt
+2303	297	8	verb, normal	Ã¥tte
+2304	297	9	verb, normal	Ã¥tte
+2305	297	10	verb, normal	Ã¥ende
+2306	297	11	verb, normal	Ã¥
+2307	298	1	verb, normal	Ã¥
+2308	298	2	verb, normal	Ã¥r
+2309	298	3	verb, normal	Ã¥s
 2310	298	4	verb, normal	jekk
-2311	298	5	verb, normal	ått
-2312	298	6	verb, normal	ått
-2313	298	7	verb, normal	ått
-2314	298	8	verb, normal	åtte
-2315	298	9	verb, normal	åtte
-2316	298	10	verb, normal	ående
-2317	298	11	verb, normal	å
-2318	299	1	verb, normal	å
-2319	299	2	verb, normal	år
-2320	299	3	verb, normal	åes
+2311	298	5	verb, normal	Ã¥tt
+2312	298	6	verb, normal	Ã¥tt
+2313	298	7	verb, normal	Ã¥tt
+2314	298	8	verb, normal	Ã¥tte
+2315	298	9	verb, normal	Ã¥tte
+2316	298	10	verb, normal	Ã¥ende
+2317	298	11	verb, normal	Ã¥
+2318	299	1	verb, normal	Ã¥
+2319	299	2	verb, normal	Ã¥r
+2320	299	3	verb, normal	Ã¥es
 2321	299	4	verb, normal	jekk
-2322	299	5	verb, normal	ått
-2323	299	6	verb, normal	ått
-2324	299	7	verb, normal	ått
-2325	299	8	verb, normal	åtte
-2326	299	9	verb, normal	åtte
-2327	299	10	verb, normal	ående
-2328	299	11	verb, normal	å
-2329	29A	1	verb, normal	æ+e
-2330	29A	2	verb, normal	æ+er
-2331	29A	3	verb, normal	æ+es
+2322	299	5	verb, normal	Ã¥tt
+2323	299	6	verb, normal	Ã¥tt
+2324	299	7	verb, normal	Ã¥tt
+2325	299	8	verb, normal	Ã¥tte
+2326	299	9	verb, normal	Ã¥tte
+2327	299	10	verb, normal	Ã¥ende
+2328	299	11	verb, normal	Ã¥
+2329	29A	1	verb, normal	Ã¦+e
+2330	29A	2	verb, normal	Ã¦+er
+2331	29A	3	verb, normal	Ã¦+es
 2332	29A	4	verb, normal	a+
-2333	29A	5	verb, normal	å+et
-2334	29A	6	verb, normal	å+et
-2335	29A	7	verb, normal	å+et
-2336	29A	8	verb, normal	å+ne
-2337	29A	9	verb, normal	å+ne
-2338	29A	10	verb, normal	æ+ende
-2339	29A	11	verb, normal	æ+
-2340	300	1	verb, normal	æ+e
-2341	300	2	verb, normal	æ+er
-2342	300	3	verb, normal	æ+es
+2333	29A	5	verb, normal	Ã¥+et
+2334	29A	6	verb, normal	Ã¥+et
+2335	29A	7	verb, normal	Ã¥+et
+2336	29A	8	verb, normal	Ã¥+ne
+2337	29A	9	verb, normal	Ã¥+ne
+2338	29A	10	verb, normal	Ã¦+ende
+2339	29A	11	verb, normal	Ã¦+
+2340	300	1	verb, normal	Ã¦+e
+2341	300	2	verb, normal	Ã¦+er
+2342	300	3	verb, normal	Ã¦+es
 2343	300	4	verb, normal	a+
-2344	300	5	verb, normal	å+et
-2345	300	6	verb, normal	å+et
-2346	300	7	verb, normal	å+en
-2347	300	8	verb, normal	å+ne
-2348	300	9	verb, normal	å+ne
-2349	300	10	verb, normal	æ+ende
-2350	300	11	verb, normal	æ+
-2351	301	1	verb, normal	jæ+e
-2352	301	2	verb, normal	jæ+er
-2353	301	3	verb, normal	jæ+es
+2344	300	5	verb, normal	Ã¥+et
+2345	300	6	verb, normal	Ã¥+et
+2346	300	7	verb, normal	Ã¥+en
+2347	300	8	verb, normal	Ã¥+ne
+2348	300	9	verb, normal	Ã¥+ne
+2349	300	10	verb, normal	Ã¦+ende
+2350	300	11	verb, normal	Ã¦+
+2351	301	1	verb, normal	jÃ¦+e
+2352	301	2	verb, normal	jÃ¦+er
+2353	301	3	verb, normal	jÃ¦+es
 2354	301	4	verb, normal	a+
-2355	301	5	verb, normal	å+et
-2356	301	6	verb, normal	å+et
-2357	301	7	verb, normal	å+et
-2358	301	8	verb, normal	å+ne
-2359	301	9	verb, normal	å+ne
-2360	301	10	verb, normal	jæ+ende
-2361	301	11	verb, normal	jæ+
-2362	302	1	verb, normal	jæ+e
-2363	302	2	verb, normal	jæ+er
-2364	302	3	verb, normal	jæ+es
+2355	301	5	verb, normal	Ã¥+et
+2356	301	6	verb, normal	Ã¥+et
+2357	301	7	verb, normal	Ã¥+et
+2358	301	8	verb, normal	Ã¥+ne
+2359	301	9	verb, normal	Ã¥+ne
+2360	301	10	verb, normal	jÃ¦+ende
+2361	301	11	verb, normal	jÃ¦+
+2362	302	1	verb, normal	jÃ¦+e
+2363	302	2	verb, normal	jÃ¦+er
+2364	302	3	verb, normal	jÃ¦+es
 2365	302	4	verb, normal	a+
-2366	302	5	verb, normal	å+et
-2367	302	6	verb, normal	å+et
-2368	302	7	verb, normal	å+en
-2369	302	8	verb, normal	å+ne
-2370	302	9	verb, normal	å+ne
-2371	302	10	verb, normal	jæ+ende
-2372	302	11	verb, normal	jæ+
+2366	302	5	verb, normal	Ã¥+et
+2367	302	6	verb, normal	Ã¥+et
+2368	302	7	verb, normal	Ã¥+en
+2369	302	8	verb, normal	Ã¥+ne
+2370	302	9	verb, normal	Ã¥+ne
+2371	302	10	verb, normal	jÃ¦+ende
+2372	302	11	verb, normal	jÃ¦+
 2373	303	1	verb, normal	a
 2374	303	2	verb, normal	ar
 2375	303	3	verb, normal	-
@@ -2393,28 +2393,28 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2392	304	9	verb, normal	a++e
 2393	304	10	verb, normal	a+ende
 2394	304	11	verb, normal	a+
-2395	305	1	verb, normal	å+e
-2396	305	2	verb, normal	å+er
-2397	305	3	verb, normal	å+es
-2398	305	4	verb, normal	å+
-2399	305	5	verb, normal	å++
-2400	305	6	verb, normal	å++
-2401	305	7	verb, normal	å++
-2402	305	8	verb, normal	å++e
-2403	305	9	verb, normal	å++e
-2404	305	10	verb, normal	å+ende
-2405	305	11	verb, normal	å+
-2406	306	1	verb, normal	å+e
-2407	306	2	verb, normal	å+er
-2408	306	3	verb, normal	å+es
+2395	305	1	verb, normal	Ã¥+e
+2396	305	2	verb, normal	Ã¥+er
+2397	305	3	verb, normal	Ã¥+es
+2398	305	4	verb, normal	Ã¥+
+2399	305	5	verb, normal	Ã¥++
+2400	305	6	verb, normal	Ã¥++
+2401	305	7	verb, normal	Ã¥++
+2402	305	8	verb, normal	Ã¥++e
+2403	305	9	verb, normal	Ã¥++e
+2404	305	10	verb, normal	Ã¥+ende
+2405	305	11	verb, normal	Ã¥+
+2406	306	1	verb, normal	Ã¥+e
+2407	306	2	verb, normal	Ã¥+er
+2408	306	3	verb, normal	Ã¥+es
 2409	306	4	verb, normal	e+
-2410	306	5	verb, normal	å++
-2411	306	6	verb, normal	å++
-2412	306	7	verb, normal	å++
-2413	306	8	verb, normal	å++e
-2414	306	9	verb, normal	å++e
-2415	306	10	verb, normal	å+ende
-2416	306	11	verb, normal	å+
+2410	306	5	verb, normal	Ã¥++
+2411	306	6	verb, normal	Ã¥++
+2412	306	7	verb, normal	Ã¥++
+2413	306	8	verb, normal	Ã¥++e
+2414	306	9	verb, normal	Ã¥++e
+2415	306	10	verb, normal	Ã¥+ende
+2416	306	11	verb, normal	Ã¥+
 2417	307	1	verb, normal	e+e
 2418	307	2	verb, normal	e+er
 2419	307	3	verb, normal	e+es
@@ -2474,22 +2474,22 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2473	312	2	verb, normal	e+er
 2474	312	3	verb, normal	e+es
 2475	312	4	verb, normal	a+
-2476	312	5	verb, normal	å+et
-2477	312	6	verb, normal	å+et
-2478	312	7	verb, normal	å+et
-2479	312	8	verb, normal	å+ne
-2480	312	9	verb, normal	å+ne
+2476	312	5	verb, normal	Ã¥+et
+2477	312	6	verb, normal	Ã¥+et
+2478	312	7	verb, normal	Ã¥+et
+2479	312	8	verb, normal	Ã¥+ne
+2480	312	9	verb, normal	Ã¥+ne
 2481	312	10	verb, normal	e+ende
 2482	312	11	verb, normal	e+
 2483	313	1	verb, normal	e+e
 2484	313	2	verb, normal	e+er
 2485	313	3	verb, normal	e+es
 2486	313	4	verb, normal	a+
-2487	313	5	verb, normal	å+et
-2488	313	6	verb, normal	å+et
-2489	313	7	verb, normal	å+en
-2490	313	8	verb, normal	å+ne
-2491	313	9	verb, normal	å+ne
+2487	313	5	verb, normal	Ã¥+et
+2488	313	6	verb, normal	Ã¥+et
+2489	313	7	verb, normal	Ã¥+en
+2490	313	8	verb, normal	Ã¥+ne
+2491	313	9	verb, normal	Ã¥+ne
 2492	313	10	verb, normal	e+ende
 2493	313	11	verb, normal	e+
 2494	314	1	verb, normal	si
@@ -2572,7 +2572,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2571	328	1	verb, normal	igge
 2572	328	2	verb, normal	igger
 2573	328	3	verb, normal	igges
-2574	328	4	verb, normal	å
+2574	328	4	verb, normal	Ã¥
 2575	328	5	verb, normal	igget
 2576	328	6	verb, normal	igget
 2577	328	7	verb, normal	igget
@@ -2583,7 +2583,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2582	329	1	verb, normal	igge
 2583	329	2	verb, normal	igger
 2584	329	3	verb, normal	igges
-2585	329	4	verb, normal	å
+2585	329	4	verb, normal	Ã¥
 2586	329	5	verb, normal	igget
 2587	329	6	verb, normal	igget
 2588	329	7	verb, normal	iggen
@@ -2594,7 +2594,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2593	32A	1	verb, normal	igge
 2594	32A	2	verb, normal	igger
 2595	32A	3	verb, normal	igges
-2596	32A	4	verb, normal	åg
+2596	32A	4	verb, normal	Ã¥g
 2597	32A	5	verb, normal	igget
 2598	32A	6	verb, normal	igget
 2599	32A	7	verb, normal	igget
@@ -2605,7 +2605,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2604	32B	1	verb, normal	igge
 2605	32B	2	verb, normal	igger
 2606	32B	3	verb, normal	igges
-2607	32B	4	verb, normal	åg
+2607	32B	4	verb, normal	Ã¥g
 2608	32B	5	verb, normal	igget
 2609	32B	6	verb, normal	igget
 2610	32B	7	verb, normal	iggen
@@ -2616,7 +2616,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2615	32C	1	verb, normal	se
 2616	32C	2	verb, normal	ser
 2617	32C	3	verb, normal	ses
-2618	32C	4	verb, normal	såg
+2618	32C	4	verb, normal	sÃ¥g
 2619	32C	5	verb, normal	sett
 2620	32C	6	verb, normal	sett
 2621	32C	7	verb, normal	sett
@@ -2649,7 +2649,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2648	332	1	verb, normal	se
 2649	332	2	verb, normal	ser
 2650	332	3	verb, normal	ses
-2651	332	4	verb, normal	så
+2651	332	4	verb, normal	sÃ¥
 2652	332	5	verb, normal	sett
 2653	332	6	verb, normal	sett
 2654	332	7	verb, normal	sett
@@ -2660,7 +2660,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2659	333	1	verb, normal	se
 2660	333	2	verb, normal	ser
 2661	333	3	verb, normal	sees
-2662	333	4	verb, normal	så
+2662	333	4	verb, normal	sÃ¥
 2663	333	5	verb, normal	sett
 2664	333	6	verb, normal	sett
 2665	333	7	verb, normal	sett
@@ -2679,21 +2679,21 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2678	334	9	verb, normal	e+te
 2679	334	10	verb, normal	e+ende
 2680	334	11	verb, normal	e+
-2681	335	1	verb, normal	være
+2681	335	1	verb, normal	vÃ¦re
 2682	335	2	verb, normal	er
 2683	335	3	verb, normal	-
 2684	335	4	verb, normal	var
-2685	335	5	verb, normal	vært
-2686	335	6	verb, normal	vært
+2685	335	5	verb, normal	vÃ¦rt
+2686	335	6	verb, normal	vÃ¦rt
 2687	335	7	verb, normal	-
 2688	335	8	verb, normal	-
 2689	335	9	verb, normal	-
-2690	335	10	verb, normal	værende
-2691	335	11	verb, normal	vær
+2690	335	10	verb, normal	vÃ¦rende
+2691	335	11	verb, normal	vÃ¦r
 2692	336	1	verb, normal	e+e
 2693	336	2	verb, normal	e+er
 2694	336	3	verb, normal	e+es
-2695	336	4	verb, normal	å+
+2695	336	4	verb, normal	Ã¥+
 2696	336	5	verb, normal	e++
 2697	336	6	verb, normal	e++
 2698	336	7	verb, normal	e++
@@ -2723,17 +2723,17 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2722	338	9	verb, normal	e+%ne
 2723	338	10	verb, normal	e+%ende
 2724	338	11	verb, normal	e+%
-2725	339	1	verb, normal	være
-2726	339	2	verb, normal	værer
-2727	339	3	verb, normal	væres
+2725	339	1	verb, normal	vÃ¦re
+2726	339	2	verb, normal	vÃ¦rer
+2727	339	3	verb, normal	vÃ¦res
 2728	339	4	verb, normal	var
-2729	339	5	verb, normal	vært
-2730	339	6	verb, normal	vært
-2731	339	7	verb, normal	vært
-2732	339	8	verb, normal	værte
-2733	339	9	verb, normal	værte
-2734	339	10	verb, normal	værende
-2735	339	11	verb, normal	vær
+2729	339	5	verb, normal	vÃ¦rt
+2730	339	6	verb, normal	vÃ¦rt
+2731	339	7	verb, normal	vÃ¦rt
+2732	339	8	verb, normal	vÃ¦rte
+2733	339	9	verb, normal	vÃ¦rte
+2734	339	10	verb, normal	vÃ¦rende
+2735	339	11	verb, normal	vÃ¦r
 2736	340	1	verb, normal	i
 2737	340	2	verb, normal	ir
 2738	340	3	verb, normal	is
@@ -2789,28 +2789,28 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2788	349	9	verb, normal	atte
 2789	349	10	verb, normal	akende
 2790	349	11	verb, normal	a
-2791	352	1	verb, normal	å
-2792	352	2	verb, normal	år
-2793	352	3	verb, normal	ås
+2791	352	1	verb, normal	Ã¥
+2792	352	2	verb, normal	Ã¥r
+2793	352	3	verb, normal	Ã¥s
 2794	352	4	verb, normal	od
-2795	352	5	verb, normal	ått
-2796	352	6	verb, normal	ått
-2797	352	7	verb, normal	ått
-2798	352	8	verb, normal	åtte
-2799	352	9	verb, normal	åtte
-2800	352	10	verb, normal	ående
-2801	352	11	verb, normal	å
-2802	353	1	verb, normal	å
-2803	353	2	verb, normal	år
-2804	353	3	verb, normal	åes
+2795	352	5	verb, normal	Ã¥tt
+2796	352	6	verb, normal	Ã¥tt
+2797	352	7	verb, normal	Ã¥tt
+2798	352	8	verb, normal	Ã¥tte
+2799	352	9	verb, normal	Ã¥tte
+2800	352	10	verb, normal	Ã¥ende
+2801	352	11	verb, normal	Ã¥
+2802	353	1	verb, normal	Ã¥
+2803	353	2	verb, normal	Ã¥r
+2804	353	3	verb, normal	Ã¥es
 2805	353	4	verb, normal	od
-2806	353	5	verb, normal	ått
-2807	353	6	verb, normal	ått
-2808	353	7	verb, normal	ått
-2809	353	8	verb, normal	åtte
-2810	353	9	verb, normal	åtte
-2811	353	10	verb, normal	ående
-2812	353	11	verb, normal	å
+2806	353	5	verb, normal	Ã¥tt
+2807	353	6	verb, normal	Ã¥tt
+2808	353	7	verb, normal	Ã¥tt
+2809	353	8	verb, normal	Ã¥tte
+2810	353	9	verb, normal	Ã¥tte
+2811	353	10	verb, normal	Ã¥ende
+2812	353	11	verb, normal	Ã¥
 2813	354	1	verb, normal	a
 2814	354	2	verb, normal	ar
 2815	354	3	verb, normal	as
@@ -2899,37 +2899,37 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 2898	361	9	verb, normal	o+ne
 2899	361	10	verb, normal	e+jende
 2900	361	11	verb, normal	e+j
-2901	362	1	verb, normal	trå
-2902	362	2	verb, normal	trår
-2903	362	3	verb, normal	trås
+2901	362	1	verb, normal	trÃ¥
+2902	362	2	verb, normal	trÃ¥r
+2903	362	3	verb, normal	trÃ¥s
 2904	362	4	verb, normal	tro
-2905	362	5	verb, normal	trådd
-2906	362	6	verb, normal	trådd
-2907	362	7	verb, normal	trådd
-2908	362	8	verb, normal	trådde
-2909	362	9	verb, normal	trådde
-2910	362	10	verb, normal	trående
-2911	362	11	verb, normal	trå
+2905	362	5	verb, normal	trÃ¥dd
+2906	362	6	verb, normal	trÃ¥dd
+2907	362	7	verb, normal	trÃ¥dd
+2908	362	8	verb, normal	trÃ¥dde
+2909	362	9	verb, normal	trÃ¥dde
+2910	362	10	verb, normal	trÃ¥ende
+2911	362	11	verb, normal	trÃ¥
 2912	363	1	verb, normal	tre
 2913	363	2	verb, normal	trer
 2914	363	3	verb, normal	tres
-2915	363	4	verb, normal	trådte
-2916	363	5	verb, normal	trådt
-2917	363	6	verb, normal	trådt
-2918	363	7	verb, normal	trådt
-2919	363	8	verb, normal	trådte
-2920	363	9	verb, normal	trådte
+2915	363	4	verb, normal	trÃ¥dte
+2916	363	5	verb, normal	trÃ¥dt
+2917	363	6	verb, normal	trÃ¥dt
+2918	363	7	verb, normal	trÃ¥dt
+2919	363	8	verb, normal	trÃ¥dte
+2920	363	9	verb, normal	trÃ¥dte
 2921	363	10	verb, normal	tredende
 2922	363	11	verb, normal	tre
 2923	364	1	verb, normal	trede
 2924	364	2	verb, normal	treder
 2925	364	3	verb, normal	tredes
-2926	364	4	verb, normal	trådte
-2927	364	5	verb, normal	trådt
-2928	364	6	verb, normal	trådt
-2929	364	7	verb, normal	trådt
-2930	364	8	verb, normal	trådte
-2931	364	9	verb, normal	trådte
+2926	364	4	verb, normal	trÃ¥dte
+2927	364	5	verb, normal	trÃ¥dt
+2928	364	6	verb, normal	trÃ¥dt
+2929	364	7	verb, normal	trÃ¥dt
+2930	364	8	verb, normal	trÃ¥dte
+2931	364	9	verb, normal	trÃ¥dte
 2932	364	10	verb, normal	tredende
 2933	364	11	verb, normal	tred
 2934	365	1	verb, normal	e
@@ -3012,7 +3012,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3011	373	1	verb, normal	y+e
 3012	373	2	verb, normal	y+er
 3013	373	3	verb, normal	y+es
-3014	373	4	verb, normal	ø+
+3014	373	4	verb, normal	Ã¸+
 3015	373	5	verb, normal	y++
 3016	373	6	verb, normal	y++
 3017	373	7	verb, normal	y++
@@ -3031,19 +3031,19 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3030	376	9	verb, normal	y++e
 3031	376	10	verb, normal	y+ende
 3032	376	11	verb, normal	y+
-3033	378	1	verb, normal	øyte
-3034	378	2	verb, normal	øyter
-3035	378	3	verb, normal	øytes
-3036	378	4	verb, normal	øtte
-3037	378	5	verb, normal	øtt
-3038	378	6	verb, normal	øtt
-3039	378	7	verb, normal	øtt
-3040	378	8	verb, normal	øtte
-3041	378	9	verb, normal	øtte
-3042	378	10	verb, normal	øytende
-3043	378	11	verb, normal	øyt
+3033	378	1	verb, normal	Ã¸yte
+3034	378	2	verb, normal	Ã¸yter
+3035	378	3	verb, normal	Ã¸ytes
+3036	378	4	verb, normal	Ã¸tte
+3037	378	5	verb, normal	Ã¸tt
+3038	378	6	verb, normal	Ã¸tt
+3039	378	7	verb, normal	Ã¸tt
+3040	378	8	verb, normal	Ã¸tte
+3041	378	9	verb, normal	Ã¸tte
+3042	378	10	verb, normal	Ã¸ytende
+3043	378	11	verb, normal	Ã¸yt
 3044	380	1	verb, normal	burde
-3045	380	2	verb, normal	bør
+3045	380	2	verb, normal	bÃ¸r
 3046	380	3	verb, normal	-
 3047	380	4	verb, normal	burde
 3048	380	5	verb, normal	burdet
@@ -3054,7 +3054,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3053	380	10	verb, normal	-
 3054	380	11	verb, normal	-
 3055	381	1	verb, normal	tore
-3056	381	2	verb, normal	tør
+3056	381	2	verb, normal	tÃ¸r
 3057	381	3	verb, normal	-
 3058	381	4	verb, normal	torde
 3059	381	5	verb, normal	tort
@@ -3086,11 +3086,11 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3085	383	9	verb, normal	-
 3086	383	10	verb, normal	u++ende
 3087	383	11	verb, normal	-
-3088	384	1	verb, normal	åtte
-3089	384	2	verb, normal	å
+3088	384	1	verb, normal	Ã¥tte
+3089	384	2	verb, normal	Ã¥
 3090	384	3	verb, normal	-
-3091	384	4	verb, normal	åtte
-3092	384	5	verb, normal	åttet
+3091	384	4	verb, normal	Ã¥tte
+3092	384	5	verb, normal	Ã¥ttet
 3093	384	6	verb, normal	-
 3094	384	7	verb, normal	-
 3095	384	8	verb, normal	-
@@ -3152,8 +3152,8 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3151	389	9	verb, normal	-
 3152	389	10	verb, normal	ende
 3153	389	11	verb, normal	
-3154	38A	1	verb, normal	tørre
-3155	38A	2	verb, normal	tør
+3154	38A	1	verb, normal	tÃ¸rre
+3155	38A	2	verb, normal	tÃ¸r
 3156	38A	3	verb, normal	-
 3157	38A	4	verb, normal	torde
 3158	38A	5	verb, normal	tort
@@ -3164,7 +3164,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3163	38A	10	verb, normal	-
 3164	38A	11	verb, normal	-
 3165	38B	1	verb, normal	tore
-3166	38B	2	verb, normal	tør
+3166	38B	2	verb, normal	tÃ¸r
 3167	38B	3	verb, normal	-
 3168	38B	4	verb, normal	turte
 3169	38B	5	verb, normal	turt
@@ -3174,8 +3174,8 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3173	38B	9	verb, normal	-
 3174	38B	10	verb, normal	-
 3175	38B	11	verb, normal	-
-3176	38C	1	verb, normal	tørre
-3177	38C	2	verb, normal	tør
+3176	38C	1	verb, normal	tÃ¸rre
+3177	38C	2	verb, normal	tÃ¸r
 3178	38C	3	verb, normal	-
 3179	38C	4	verb, normal	turte
 3180	38C	5	verb, normal	turt
@@ -3244,23 +3244,23 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3243	401B	3	verb, s-verb	fantes
 3244	401B	4	verb, s-verb	funnes
 3245	401B	5	verb, s-verb	finnes
-3246	402	1	verb, s-verb	spørres
-3247	402	2	verb, s-verb	spørres
+3246	402	1	verb, s-verb	spÃ¸rres
+3247	402	2	verb, s-verb	spÃ¸rres
 3248	402	3	verb, s-verb	spurtes
 3249	402	4	verb, s-verb	spurts
 3250	402	5	verb, s-verb	-
-3251	402A	1	verb, s-verb	spørres
-3252	402A	2	verb, s-verb	spørres
+3251	402A	1	verb, s-verb	spÃ¸rres
+3252	402A	2	verb, s-verb	spÃ¸rres
 3253	402A	3	verb, s-verb	spurtes
 3254	402A	4	verb, s-verb	spurtes
 3255	402A	5	verb, s-verb	-
-3256	403	1	verb, s-verb	spørres
-3257	403	2	verb, s-verb	spørs
+3256	403	1	verb, s-verb	spÃ¸rres
+3257	403	2	verb, s-verb	spÃ¸rs
 3258	403	3	verb, s-verb	spurtes
 3259	403	4	verb, s-verb	spurts
 3260	403	5	verb, s-verb	-
-3261	403A	1	verb, s-verb	spørres
-3262	403A	2	verb, s-verb	spørs
+3261	403A	1	verb, s-verb	spÃ¸rres
+3262	403A	2	verb, s-verb	spÃ¸rs
 3263	403A	3	verb, s-verb	spurtes
 3264	403A	4	verb, s-verb	spurtes
 3265	403A	5	verb, s-verb	-
@@ -3299,11 +3299,11 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3298	410	3	verb, s-verb	+tes
 3299	410	4	verb, s-verb	+tes
 3300	410	5	verb, s-verb	++es
-3301	411	1	verb, s-verb	slåss
-3302	411	2	verb, s-verb	slåss
+3301	411	1	verb, s-verb	slÃ¥ss
+3302	411	2	verb, s-verb	slÃ¥ss
 3303	411	3	verb, s-verb	sloss
-3304	411	4	verb, s-verb	slåss
-3305	411	5	verb, s-verb	slåss
+3304	411	4	verb, s-verb	slÃ¥ss
+3305	411	5	verb, s-verb	slÃ¥ss
 3306	412	1	verb, s-verb	treffes
 3307	412	2	verb, s-verb	treffes
 3308	412	3	verb, s-verb	traffes
@@ -3324,26 +3324,26 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3323	415	3	verb, s-verb	+des
 3324	415	4	verb, s-verb	+des
 3325	415	5	verb, s-verb	++es
-3326	416	1	verb, s-verb	gås
-3327	416	2	verb, s-verb	gås
+3326	416	1	verb, s-verb	gÃ¥s
+3327	416	2	verb, s-verb	gÃ¥s
 3328	416	3	verb, s-verb	giks
-3329	416	4	verb, s-verb	gåttes
-3330	416	5	verb, s-verb	gås
-3331	417	1	verb, s-verb	gås
-3332	417	2	verb, s-verb	gås
+3329	416	4	verb, s-verb	gÃ¥ttes
+3330	416	5	verb, s-verb	gÃ¥s
+3331	417	1	verb, s-verb	gÃ¥s
+3332	417	2	verb, s-verb	gÃ¥s
 3333	417	3	verb, s-verb	gikkes
-3334	417	4	verb, s-verb	gåttes
-3335	417	5	verb, s-verb	gås
-3336	418	1	verb, s-verb	gåes
-3337	418	2	verb, s-verb	gåes
+3334	417	4	verb, s-verb	gÃ¥ttes
+3335	417	5	verb, s-verb	gÃ¥s
+3336	418	1	verb, s-verb	gÃ¥es
+3337	418	2	verb, s-verb	gÃ¥es
 3338	418	3	verb, s-verb	giks
-3339	418	4	verb, s-verb	gåttes
-3340	418	5	verb, s-verb	gåes
-3341	419	1	verb, s-verb	gåes
-3342	419	2	verb, s-verb	gåes
+3339	418	4	verb, s-verb	gÃ¥ttes
+3340	418	5	verb, s-verb	gÃ¥es
+3341	419	1	verb, s-verb	gÃ¥es
+3342	419	2	verb, s-verb	gÃ¥es
 3343	419	3	verb, s-verb	gikkes
-3344	419	4	verb, s-verb	gåttes
-3345	419	5	verb, s-verb	gåes
+3344	419	4	verb, s-verb	gÃ¥ttes
+3345	419	5	verb, s-verb	gÃ¥es
 3346	420	1	verb, s-verb	es
 3347	420	2	verb, s-verb	s
 3348	420	3	verb, s-verb	des
@@ -3379,11 +3379,11 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3378	426	3	verb, s-verb	es
 3379	426	4	verb, s-verb	es
 3380	426	5	verb, s-verb	es
-3381	427	1	verb, s-verb	gjørs
-3382	427	2	verb, s-verb	gjørs
+3381	427	1	verb, s-verb	gjÃ¸rs
+3382	427	2	verb, s-verb	gjÃ¸rs
 3383	427	3	verb, s-verb	gjors
 3384	427	4	verb, s-verb	gjors
-3385	427	5	verb, s-verb	gjørs
+3385	427	5	verb, s-verb	gjÃ¸rs
 3386	428	1	verb, s-verb	tas
 3387	428	2	verb, s-verb	tas
 3388	428	3	verb, s-verb	toks
@@ -3416,32 +3416,32 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3415	433	5	verb, s-verb	takes
 3416	434	1	verb, s-verb	sees
 3417	434	2	verb, s-verb	sees
-3418	434	3	verb, s-verb	såes
+3418	434	3	verb, s-verb	sÃ¥es
 3419	434	4	verb, s-verb	settes
 3420	434	5	verb, s-verb	sees
 3421	435	1	verb, s-verb	ses
 3422	435	2	verb, s-verb	ses
-3423	435	3	verb, s-verb	sås
+3423	435	3	verb, s-verb	sÃ¥s
 3424	435	4	verb, s-verb	settes
 3425	435	5	verb, s-verb	ses
 3426	436	1	verb, s-verb	sees
 3427	436	2	verb, s-verb	sees
-3428	436	3	verb, s-verb	såes
+3428	436	3	verb, s-verb	sÃ¥es
 3429	436	4	verb, s-verb	sees
 3430	436	5	verb, s-verb	sees
 3431	437	1	verb, s-verb	sees
 3432	437	2	verb, s-verb	sees
-3433	437	3	verb, s-verb	såes
+3433	437	3	verb, s-verb	sÃ¥es
 3434	437	4	verb, s-verb	ses
 3435	437	5	verb, s-verb	sees
 3436	438	1	verb, s-verb	ses
 3437	438	2	verb, s-verb	ses
-3438	438	3	verb, s-verb	sås
+3438	438	3	verb, s-verb	sÃ¥s
 3439	438	4	verb, s-verb	sees
 3440	438	5	verb, s-verb	ses
 3441	439	1	verb, s-verb	ses
 3442	439	2	verb, s-verb	ses
-3443	439	3	verb, s-verb	sås
+3443	439	3	verb, s-verb	sÃ¥s
 3444	439	4	verb, s-verb	ses
 3445	439	5	verb, s-verb	ses
 3446	440	1	verb, s-verb	idest
@@ -3516,10 +3516,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3515	474	2	determinativ	si
 3516	474	3	determinativ	sitt
 3517	474	4	determinativ	sine
-3518	477	1	determinativ	vår
-3519	477	2	determinativ	vår
-3520	477	3	determinativ	vårt
-3521	477	4	determinativ	våre
+3518	477	1	determinativ	vÃ¥r
+3519	477	2	determinativ	vÃ¥r
+3520	477	3	determinativ	vÃ¥rt
+3521	477	4	determinativ	vÃ¥re
 3522	478	1	determinativ	+in
 3523	478	2	determinativ	+i
 3524	478	3	determinativ	+int
@@ -3627,16 +3627,16 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3626	49AA	3	determinativ, <adj>	selv
 3627	49AA	4	determinativ, <adj>	selve
 3628	49AA	5	determinativ, <adj>	selv
-3629	49AB	1	determinativ, <adj>	sjøl
-3630	49AB	2	determinativ, <adj>	sjøl
-3631	49AB	3	determinativ, <adj>	sjøl
-3632	49AB	4	determinativ, <adj>	sjølve
-3633	49AB	5	determinativ, <adj>	sjøl
-3634	49AC	1	determinativ, <adj>	sjøl
-3635	49AC	2	determinativ, <adj>	sjøl
-3636	49AC	3	determinativ, <adj>	sjøl
-3637	49AC	4	determinativ, <adj>	sjølve
-3638	49AC	5	determinativ, <adj>	sjølve
+3629	49AB	1	determinativ, <adj>	sjÃ¸l
+3630	49AB	2	determinativ, <adj>	sjÃ¸l
+3631	49AB	3	determinativ, <adj>	sjÃ¸l
+3632	49AB	4	determinativ, <adj>	sjÃ¸lve
+3633	49AB	5	determinativ, <adj>	sjÃ¸l
+3634	49AC	1	determinativ, <adj>	sjÃ¸l
+3635	49AC	2	determinativ, <adj>	sjÃ¸l
+3636	49AC	3	determinativ, <adj>	sjÃ¸l
+3637	49AC	4	determinativ, <adj>	sjÃ¸lve
+3638	49AC	5	determinativ, <adj>	sjÃ¸lve
 3639	49B	1	determinativ, enkel	
 3640	49C	1	determinativ	annen
 3641	49C	2	determinativ	anna
@@ -3662,8 +3662,8 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3661	49H	3	determinativ, <adj>	anna
 3662	49H	4	determinativ, <adj>	andre
 3663	49H	5	determinativ, <adj>	andre
-3664	49I	1	determinativ	én
-3665	49I	2	determinativ	éi
+3664	49I	1	determinativ	Ã©n
+3665	49I	2	determinativ	Ã©i
 3666	49I	3	determinativ	ett
 3667	49I	4	determinativ	-
 3668	49J	1	determinativ, enkel	
@@ -3696,10 +3696,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3695	500	5	adjektiv	ere
 3696	500	6	adjektiv	est
 3697	500	7	adjektiv	este
-3698	501	1	adjektiv	é
+3698	501	1	adjektiv	Ã©
 3699	501	2	adjektiv	ee
 3700	501	3	adjektiv	ee
-3701	501	4	adjektiv	é
+3701	501	4	adjektiv	Ã©
 3702	501	5	adjektiv	eere
 3703	501	6	adjektiv	eest
 3704	501	7	adjektiv	eeste
@@ -3710,10 +3710,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3709	502	5	adjektiv	ere
 3710	502	6	adjektiv	est
 3711	502	7	adjektiv	este
-3712	503	1	adjektiv	é
-3713	503	2	adjektiv	é
-3714	503	3	adjektiv	é
-3715	503	4	adjektiv	é
+3712	503	1	adjektiv	Ã©
+3713	503	2	adjektiv	Ã©
+3714	503	3	adjektiv	Ã©
+3715	503	4	adjektiv	Ã©
 3716	503	5	adjektiv	eere
 3717	503	6	adjektiv	eest
 3718	503	7	adjektiv	eeste
@@ -3738,10 +3738,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3737	506	5	adjektiv	ere
 3738	506	6	adjektiv	est
 3739	506	7	adjektiv	este
-3740	506E	1	adjektiv	små
-3741	506E	2	adjektiv	små
-3742	506E	3	adjektiv	små
-3743	506E	4	adjektiv	smått
+3740	506E	1	adjektiv	smÃ¥
+3741	506E	2	adjektiv	smÃ¥
+3742	506E	3	adjektiv	smÃ¥
+3743	506E	4	adjektiv	smÃ¥tt
 3744	506E	5	adjektiv	mindre
 3745	506E	6	adjektiv	minst
 3746	506E	7	adjektiv	minste
@@ -3759,10 +3759,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3758	508	5	adjektiv	ere
 3759	508	6	adjektiv	st
 3760	508	7	adjektiv	ste
-3761	509	1	adjektiv	é
+3761	509	1	adjektiv	Ã©
 3762	509	2	adjektiv	ee
 3763	509	3	adjektiv	ee
-3764	509	4	adjektiv	é
+3764	509	4	adjektiv	Ã©
 3765	509	5	adjektiv	-
 3766	509	6	adjektiv	-
 3767	509	7	adjektiv	-
@@ -3815,10 +3815,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 3814	516	5	adjektiv	-
 3815	516	6	adjektiv	
 3816	516	7	adjektiv	e
-3817	517	1	adjektiv	é
-3818	517	2	adjektiv	é
-3819	517	3	adjektiv	é
-3820	517	4	adjektiv	é
+3817	517	1	adjektiv	Ã©
+3818	517	2	adjektiv	Ã©
+3819	517	3	adjektiv	Ã©
+3820	517	4	adjektiv	Ã©
 3821	517	5	adjektiv	-
 3822	517	6	adjektiv	-
 3823	517	7	adjektiv	-
@@ -4106,9 +4106,9 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4105	602	2	adjektiv	store
 4106	602	3	adjektiv	store
 4107	602	4	adjektiv	stort
-4108	602	5	adjektiv	større
-4109	602	6	adjektiv	størst
-4110	602	7	adjektiv	største
+4108	602	5	adjektiv	stÃ¸rre
+4109	602	6	adjektiv	stÃ¸rst
+4110	602	7	adjektiv	stÃ¸rste
 4111	604	1	adjektiv	god
 4112	604	2	adjektiv	gode
 4113	604	3	adjektiv	gode
@@ -4142,8 +4142,8 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4141	608	3	adjektiv	grove
 4142	608	4	adjektiv	grovt
 4143	608	5	adjektiv	grovere
-4144	608	6	adjektiv	grøvst
-4145	608	7	adjektiv	grøvste
+4144	608	6	adjektiv	grÃ¸vst
+4145	608	7	adjektiv	grÃ¸vste
 4146	609	1	adjektiv	bra
 4147	609	2	adjektiv	bra
 4148	609	3	adjektiv	bra
@@ -4222,12 +4222,12 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4221	631	6	adjektiv	est
 4222	631	7	adjektiv	este
 4223	632	1	adjektiv	-
-4224	632	2	adjektiv	få
+4224	632	2	adjektiv	fÃ¥
 4225	632	3	adjektiv	-
 4226	632	4	adjektiv	-
-4227	632	5	adjektiv	færre
-4228	632	6	adjektiv	færrest
-4229	632	7	adjektiv	færreste
+4227	632	5	adjektiv	fÃ¦rre
+4228	632	6	adjektiv	fÃ¦rrest
+4229	632	7	adjektiv	fÃ¦rreste
 4230	633	1	adjektiv	annen
 4231	633	2	adjektiv	andre
 4232	633	3	adjektiv	annen
@@ -4235,10 +4235,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4234	633	5	adjektiv	-
 4235	633	6	adjektiv	-
 4236	633	7	adjektiv	-
-4237	634	1	adjektiv	dårlig
-4238	634	2	adjektiv	dårlige
-4239	634	3	adjektiv	dårlige
-4240	634	4	adjektiv	dårlig
+4237	634	1	adjektiv	dÃ¥rlig
+4238	634	2	adjektiv	dÃ¥rlige
+4239	634	3	adjektiv	dÃ¥rlige
+4240	634	4	adjektiv	dÃ¥rlig
 4241	634	5	adjektiv	verre
 4242	634	6	adjektiv	verst
 4243	634	7	adjektiv	verste
@@ -4325,7 +4325,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4324	665	2	adjektiv, ulik m/f	lita
 4325	665	3	adjektiv, ulik m/f	lite
 4326	665	4	adjektiv, ulik m/f	lille
-4327	665	5	adjektiv, ulik m/f	små
+4327	665	5	adjektiv, ulik m/f	smÃ¥
 4328	665	6	adjektiv, ulik m/f	mindre
 4329	665	7	adjektiv, ulik m/f	minst
 4330	665	8	adjektiv, ulik m/f	minste
@@ -4333,23 +4333,23 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4332	665A	2	adjektiv, ulik m/f	liten
 4333	665A	3	adjektiv, ulik m/f	lite
 4334	665A	4	adjektiv, ulik m/f	lille
-4335	665A	5	adjektiv, ulik m/f	små
+4335	665A	5	adjektiv, ulik m/f	smÃ¥
 4336	665A	6	adjektiv, ulik m/f	mindre
 4337	665A	7	adjektiv, ulik m/f	minst
 4338	665A	8	adjektiv, ulik m/f	minste
 4339	666	1	adjektiv, ulik m/f	liten
 4340	666	2	adjektiv, ulik m/f	lita
-4341	666	3	adjektiv, ulik m/f	smått
+4341	666	3	adjektiv, ulik m/f	smÃ¥tt
 4342	666	4	adjektiv, ulik m/f	lille
-4343	666	5	adjektiv, ulik m/f	små
+4343	666	5	adjektiv, ulik m/f	smÃ¥
 4344	666	6	adjektiv, ulik m/f	mindre
 4345	666	7	adjektiv, ulik m/f	minst
 4346	666	8	adjektiv, ulik m/f	minste
 4347	666A	1	adjektiv, ulik m/f	liten
 4348	666A	2	adjektiv, ulik m/f	liten
-4349	666A	3	adjektiv, ulik m/f	smått
+4349	666A	3	adjektiv, ulik m/f	smÃ¥tt
 4350	666A	4	adjektiv, ulik m/f	lille
-4351	666A	5	adjektiv, ulik m/f	små
+4351	666A	5	adjektiv, ulik m/f	smÃ¥
 4352	666A	6	adjektiv, ulik m/f	mindre
 4353	666A	7	adjektiv, ulik m/f	minst
 4354	666A	8	adjektiv, ulik m/f	minste
@@ -4357,7 +4357,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4356	667	2	adjektiv, ulik m/f	lita
 4357	667	3	adjektiv, ulik m/f	lite
 4358	667	4	adjektiv, ulik m/f	lille
-4359	667	5	adjektiv, ulik m/f	små
+4359	667	5	adjektiv, ulik m/f	smÃ¥
 4360	667	6	adjektiv, ulik m/f	-
 4361	667	7	adjektiv, ulik m/f	-
 4362	667	8	adjektiv, ulik m/f	-
@@ -4365,23 +4365,23 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4364	667A	2	adjektiv, ulik m/f	liten
 4365	667A	3	adjektiv, ulik m/f	lite
 4366	667A	4	adjektiv, ulik m/f	lille
-4367	667A	5	adjektiv, ulik m/f	små
+4367	667A	5	adjektiv, ulik m/f	smÃ¥
 4368	667A	6	adjektiv, ulik m/f	-
 4369	667A	7	adjektiv, ulik m/f	-
 4370	667A	8	adjektiv, ulik m/f	-
 4371	668	1	adjektiv, ulik m/f	liten
 4372	668	2	adjektiv, ulik m/f	lita
-4373	668	3	adjektiv, ulik m/f	smått
+4373	668	3	adjektiv, ulik m/f	smÃ¥tt
 4374	668	4	adjektiv, ulik m/f	lille
-4375	668	5	adjektiv, ulik m/f	små
+4375	668	5	adjektiv, ulik m/f	smÃ¥
 4376	668	6	adjektiv, ulik m/f	-
 4377	668	7	adjektiv, ulik m/f	-
 4378	668	8	adjektiv, ulik m/f	-
 4379	668A	1	adjektiv, ulik m/f	liten
 4380	668A	2	adjektiv, ulik m/f	liten
-4381	668A	3	adjektiv, ulik m/f	smått
+4381	668A	3	adjektiv, ulik m/f	smÃ¥tt
 4382	668A	4	adjektiv, ulik m/f	lille
-4383	668A	5	adjektiv, ulik m/f	små
+4383	668A	5	adjektiv, ulik m/f	smÃ¥
 4384	668A	6	adjektiv, ulik m/f	-
 4385	668A	7	adjektiv, ulik m/f	-
 4386	668A	8	adjektiv, ulik m/f	-
@@ -4389,15 +4389,15 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4388	669	2	adjektiv, ulik m/f	lita
 4389	669	3	adjektiv, ulik m/f	lite
 4390	669	4	adjektiv, ulik m/f	vesle
-4391	669	5	adjektiv, ulik m/f	små
+4391	669	5	adjektiv, ulik m/f	smÃ¥
 4392	669	6	adjektiv, ulik m/f	mindre
 4393	669	7	adjektiv, ulik m/f	minst
 4394	669	8	adjektiv, ulik m/f	minste
 4395	669A	1	adjektiv, ulik m/f	liten
 4396	669A	2	adjektiv, ulik m/f	lita
-4397	669A	3	adjektiv, ulik m/f	smått
+4397	669A	3	adjektiv, ulik m/f	smÃ¥tt
 4398	669A	4	adjektiv, ulik m/f	vesle
-4399	669A	5	adjektiv, ulik m/f	små
+4399	669A	5	adjektiv, ulik m/f	smÃ¥
 4400	669A	6	adjektiv, ulik m/f	mindre
 4401	669A	7	adjektiv, ulik m/f	minst
 4402	669A	8	adjektiv, ulik m/f	minste
@@ -4405,15 +4405,15 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4404	670	2	adjektiv, ulik m/f	liten
 4405	670	3	adjektiv, ulik m/f	lite
 4406	670	4	adjektiv, ulik m/f	vesle
-4407	670	5	adjektiv, ulik m/f	små
+4407	670	5	adjektiv, ulik m/f	smÃ¥
 4408	670	6	adjektiv, ulik m/f	mindre
 4409	670	7	adjektiv, ulik m/f	minst
 4410	670	8	adjektiv, ulik m/f	minste
 4411	670A	1	adjektiv, ulik m/f	liten
 4412	670A	2	adjektiv, ulik m/f	liten
-4413	670A	3	adjektiv, ulik m/f	smått
+4413	670A	3	adjektiv, ulik m/f	smÃ¥tt
 4414	670A	4	adjektiv, ulik m/f	vesle
-4415	670A	5	adjektiv, ulik m/f	små
+4415	670A	5	adjektiv, ulik m/f	smÃ¥
 4416	670A	6	adjektiv, ulik m/f	mindre
 4417	670A	7	adjektiv, ulik m/f	minst
 4418	670A	8	adjektiv, ulik m/f	minste
@@ -4421,15 +4421,15 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4420	671	2	adjektiv, ulik m/f	lita
 4421	671	3	adjektiv, ulik m/f	lite
 4422	671	4	adjektiv, ulik m/f	vesle
-4423	671	5	adjektiv, ulik m/f	små
+4423	671	5	adjektiv, ulik m/f	smÃ¥
 4424	671	6	adjektiv, ulik m/f	-
 4425	671	7	adjektiv, ulik m/f	-
 4426	671	8	adjektiv, ulik m/f	-
 4427	671A	1	adjektiv, ulik m/f	liten
 4428	671A	2	adjektiv, ulik m/f	lita
-4429	671A	3	adjektiv, ulik m/f	smått
+4429	671A	3	adjektiv, ulik m/f	smÃ¥tt
 4430	671A	4	adjektiv, ulik m/f	vesle
-4431	671A	5	adjektiv, ulik m/f	små
+4431	671A	5	adjektiv, ulik m/f	smÃ¥
 4432	671A	6	adjektiv, ulik m/f	-
 4433	671A	7	adjektiv, ulik m/f	-
 4434	671A	8	adjektiv, ulik m/f	-
@@ -4437,15 +4437,15 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4436	672	2	adjektiv, ulik m/f	liten
 4437	672	3	adjektiv, ulik m/f	lite
 4438	672	4	adjektiv, ulik m/f	vesle
-4439	672	5	adjektiv, ulik m/f	små
+4439	672	5	adjektiv, ulik m/f	smÃ¥
 4440	672	6	adjektiv, ulik m/f	-
 4441	672	7	adjektiv, ulik m/f	-
 4442	672	8	adjektiv, ulik m/f	-
 4443	672A	1	adjektiv, ulik m/f	liten
 4444	672A	2	adjektiv, ulik m/f	liten
-4445	672A	3	adjektiv, ulik m/f	smått
+4445	672A	3	adjektiv, ulik m/f	smÃ¥tt
 4446	672A	4	adjektiv, ulik m/f	vesle
-4447	672A	5	adjektiv, ulik m/f	små
+4447	672A	5	adjektiv, ulik m/f	smÃ¥
 4448	672A	6	adjektiv, ulik m/f	-
 4449	672A	7	adjektiv, ulik m/f	-
 4450	672A	8	adjektiv, ulik m/f	-
@@ -4502,7 +4502,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4501	702	2	substantiv	n
 4502	702	3	substantiv	r
 4503	702	4	substantiv	ne
-4504	703	1	substantiv	é
+4504	703	1	substantiv	Ã©
 4505	703	2	substantiv	een
 4506	703	3	substantiv	eer
 4507	703	4	substantiv	eene
@@ -4518,7 +4518,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4517	706	2	substantiv	osen
 4518	706	3	substantiv	oer
 4519	706	4	substantiv	oene
-4520	707	1	substantiv	é%
+4520	707	1	substantiv	Ã©%
 4521	707	2	substantiv	e%en
 4522	707	3	substantiv	e%er
 4523	707	4	substantiv	e%ene
@@ -4712,20 +4712,20 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4711	759	4	substantiv	gene
 4712	760	1	substantiv	bonde
 4713	760	2	substantiv	bonden
-4714	760	3	substantiv	bønder
-4715	760	4	substantiv	bøndene
+4714	760	3	substantiv	bÃ¸nder
+4715	760	4	substantiv	bÃ¸ndene
 4716	761	1	substantiv	bror
 4717	761	2	substantiv	broren
-4718	761	3	substantiv	brødre
-4719	761	4	substantiv	brødrene
+4718	761	3	substantiv	brÃ¸dre
+4719	761	4	substantiv	brÃ¸drene
 4720	762	1	substantiv	far
 4721	762	2	substantiv	faren
 4722	762	3	substantiv	fedre
 4723	762	4	substantiv	fedrene
 4724	763	1	substantiv	o+
 4725	763	2	substantiv	o+en
-4726	763	3	substantiv	ø++er
-4727	763	4	substantiv	ø++ene
+4726	763	3	substantiv	Ã¸++er
+4727	763	4	substantiv	Ã¸++ene
 4728	764	1	substantiv	mann
 4729	764	2	substantiv	mannen
 4730	764	3	substantiv	menn
@@ -4738,54 +4738,54 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4737	766	2	substantiv	a+%en
 4738	766	3	substantiv	e+%er
 4739	766	4	substantiv	e+%ene
-4740	767	1	substantiv	å%
-4741	767	2	substantiv	å%en
-4742	767	3	substantiv	æ%er
-4743	767	4	substantiv	æ%ene
+4740	767	1	substantiv	Ã¥%
+4741	767	2	substantiv	Ã¥%en
+4742	767	3	substantiv	Ã¦%er
+4743	767	4	substantiv	Ã¦%ene
 4744	768	1	substantiv	fader
 4745	768	2	substantiv	faderen
 4746	768	3	substantiv	fedre
 4747	768	4	substantiv	fedrene
 4748	769	1	substantiv	o+
 4749	769	2	substantiv	o+en
-4750	769	3	substantiv	ø+er
-4751	769	4	substantiv	ø+ene
+4750	769	3	substantiv	Ã¸+er
+4751	769	4	substantiv	Ã¸+ene
 4752	76A	1	substantiv	voss
 4753	76A	2	substantiv	vossen
 4754	76A	3	substantiv	vesser
 4755	76A	4	substantiv	vessene
 4756	76B	1	substantiv	broder
 4757	76B	2	substantiv	broderen
-4758	76B	3	substantiv	brødre
-4759	76B	4	substantiv	brødrene
+4758	76B	3	substantiv	brÃ¸dre
+4759	76B	4	substantiv	brÃ¸drene
 4760	76C	1	substantiv	moder
 4761	76C	2	substantiv	moderen
-4762	76C	3	substantiv	mødre
-4763	76C	4	substantiv	mødrene
+4762	76C	3	substantiv	mÃ¸dre
+4763	76C	4	substantiv	mÃ¸drene
 4764	76D	1	substantiv	moder
 4765	76D	2	substantiv	moderen
-4766	76D	3	substantiv	mødrer
-4767	76D	4	substantiv	mødrene
+4766	76D	3	substantiv	mÃ¸drer
+4767	76D	4	substantiv	mÃ¸drene
 4768	76E	1	substantiv	mor
 4769	76E	2	substantiv	moren
-4770	76E	3	substantiv	mødre
-4771	76E	4	substantiv	mødrene
+4770	76E	3	substantiv	mÃ¸dre
+4771	76E	4	substantiv	mÃ¸drene
 4772	76F	1	substantiv	mor
 4773	76F	2	substantiv	moren
-4774	76F	3	substantiv	mødrer
-4775	76F	4	substantiv	mødrene
+4774	76F	3	substantiv	mÃ¸drer
+4775	76F	4	substantiv	mÃ¸drene
 4776	76G	1	substantiv	%tter
 4777	76G	2	substantiv	%tteren
-4778	76G	3	substantiv	øtre
-4779	76G	4	substantiv	øtrene
+4778	76G	3	substantiv	Ã¸tre
+4779	76G	4	substantiv	Ã¸trene
 4780	76H	1	substantiv	%tter
 4781	76H	2	substantiv	%tteren
-4782	76H	3	substantiv	øtrer
-4783	76H	4	substantiv	øtrene
-4784	76I	1	substantiv	å
-4785	76I	2	substantiv	åen
-4786	76I	3	substantiv	ær
-4787	76I	4	substantiv	ærne
+4782	76H	3	substantiv	Ã¸trer
+4783	76H	4	substantiv	Ã¸trene
+4784	76I	1	substantiv	Ã¥
+4785	76I	2	substantiv	Ã¥en
+4786	76I	3	substantiv	Ã¦r
+4787	76I	4	substantiv	Ã¦rne
 4788	76J	1	substantiv	o+%
 4789	76J	2	substantiv	o+%en
 4790	76J	3	substantiv	e+%er
@@ -4796,32 +4796,32 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4795	76K	4	substantiv	e++ene
 4796	76L	1	substantiv	o
 4797	76L	2	substantiv	oen
-4798	76L	3	substantiv	ør
-4799	76L	4	substantiv	ørne
-4800	76M	1	substantiv	å%
-4801	76M	2	substantiv	å%en
-4802	76M	3	substantiv	jæ%er
-4803	76M	4	substantiv	jæ%ene
-4804	76N	1	substantiv	å%
-4805	76N	2	substantiv	å%en
+4798	76L	3	substantiv	Ã¸r
+4799	76L	4	substantiv	Ã¸rne
+4800	76M	1	substantiv	Ã¥%
+4801	76M	2	substantiv	Ã¥%en
+4802	76M	3	substantiv	jÃ¦%er
+4803	76M	4	substantiv	jÃ¦%ene
+4804	76N	1	substantiv	Ã¥%
+4805	76N	2	substantiv	Ã¥%en
 4806	76N	3	substantiv	je%%
 4807	76N	4	substantiv	je%%ene
 4808	76O	1	substantiv	ku
 4809	76O	2	substantiv	kuen
 4810	76O	3	substantiv	kyr
 4811	76O	4	substantiv	kyrne
-4812	76P	1	substantiv	å+%
-4813	76P	2	substantiv	å+%en
+4812	76P	1	substantiv	Ã¥+%
+4813	76P	2	substantiv	Ã¥+%en
 4814	76P	3	substantiv	e+%er
 4815	76P	4	substantiv	e+%ene
 4816	770	1	substantiv	
 4817	770	2	substantiv	en
 4818	770	3	substantiv	s
 4819	770	4	substantiv	ene
-4820	771	1	substantiv	å++
-4821	771	2	substantiv	å++en
-4822	771	3	substantiv	æ++er
-4823	771	4	substantiv	æ++ene
+4820	771	1	substantiv	Ã¥++
+4821	771	2	substantiv	Ã¥++en
+4822	771	3	substantiv	Ã¦++er
+4823	771	4	substantiv	Ã¦++ene
 4824	772	1	substantiv	
 4825	772	2	substantiv	n
 4826	772	3	substantiv	s
@@ -4894,7 +4894,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4893	789	2	substantiv	-
 4894	789	3	substantiv	artes
 4895	789	4	substantiv	-
-4896	790	1	substantiv, ubøy	
+4896	790	1	substantiv, ubÃ¸y	
 4897	791	1	substantiv	-
 4898	791	2	substantiv	
 4899	791	3	substantiv	-
@@ -4903,7 +4903,7 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 4902	792	2	substantiv	teren
 4903	792	3	substantiv	tres
 4904	792	4	substantiv	terne
-4905	795	1	substantiv, ubøy	
+4905	795	1	substantiv, ubÃ¸y	
 4906	800	1	substantiv	
 4907	800	2	substantiv	et
 4908	800	3	substantiv	
@@ -5170,8 +5170,8 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 5169	864	4	substantiv	ene
 5170	865	1	substantiv	e
 5171	865	2	substantiv	eet
-5172	865	3	substantiv	ær
-5173	865	4	substantiv	ærne
+5172	865	3	substantiv	Ã¦r
+5173	865	4	substantiv	Ã¦rne
 5174	866	1	substantiv	us
 5175	866	2	substantiv	uset
 5176	866	3	substantiv	ora
@@ -5204,26 +5204,26 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 5203	873	2	substantiv	et
 5204	873	3	substantiv	s
 5205	873	4	substantiv	sene
-5206	874	1	substantiv	é
+5206	874	1	substantiv	Ã©
 5207	874	2	substantiv	eet
 5208	874	3	substantiv	eer
 5209	874	4	substantiv	ea
-5210	875	1	substantiv	é
+5210	875	1	substantiv	Ã©
 5211	875	2	substantiv	eet
 5212	875	3	substantiv	eer
 5213	875	4	substantiv	eene
-5214	876	1	substantiv	é
+5214	876	1	substantiv	Ã©
 5215	876	2	substantiv	eet
-5216	876	3	substantiv	é
+5216	876	3	substantiv	Ã©
 5217	876	4	substantiv	ea
-5218	877	1	substantiv	é
+5218	877	1	substantiv	Ã©
 5219	877	2	substantiv	eet
-5220	877	3	substantiv	é
+5220	877	3	substantiv	Ã©
 5221	877	4	substantiv	eene
 5222	878	1	substantiv	o
 5223	878	2	substantiv	oet
-5224	878	3	substantiv	ør
-5225	878	4	substantiv	ørne
+5224	878	3	substantiv	Ã¸r
+5225	878	4	substantiv	Ã¸rne
 5226	879	1	substantiv	-
 5227	879	2	substantiv	-
 5228	879	3	substantiv	ne
@@ -5260,8 +5260,8 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 5259	889	2	substantiv	et
 5260	889	3	substantiv	-
 5261	889	4	substantiv	-
-5262	890	1	substantiv, ubøy	
-5263	895	1	substantiv, ubøy	
+5262	890	1	substantiv, ubÃ¸y	
+5263	895	1	substantiv, ubÃ¸y	
 5264	900	1	substantiv	
 5265	900	2	substantiv	a
 5266	900	3	substantiv	er
@@ -5312,20 +5312,20 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 5311	930	4	substantiv	++ene
 5312	940	1	substantiv	%tter
 5313	940	2	substantiv	%ttera
-5314	940	3	substantiv	øtre
-5315	940	4	substantiv	øtrene
+5314	940	3	substantiv	Ã¸tre
+5315	940	4	substantiv	Ã¸trene
 5316	941	1	substantiv	%tter
 5317	941	2	substantiv	%ttera
-5318	941	3	substantiv	øtrer
-5319	941	4	substantiv	øtrene
+5318	941	3	substantiv	Ã¸trer
+5319	941	4	substantiv	Ã¸trene
 5320	942	1	substantiv	mor
 5321	942	2	substantiv	mora
-5322	942	3	substantiv	mødre
-5323	942	4	substantiv	mødrene
+5322	942	3	substantiv	mÃ¸dre
+5323	942	4	substantiv	mÃ¸drene
 5324	943	1	substantiv	mor
 5325	943	2	substantiv	mora
-5326	943	3	substantiv	mødrer
-5327	943	4	substantiv	mødrene
+5326	943	3	substantiv	mÃ¸drer
+5327	943	4	substantiv	mÃ¸drene
 5328	944	1	substantiv	e%
 5329	944	2	substantiv	e%a
 5330	944	3	substantiv	%e
@@ -5334,10 +5334,10 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 5333	945	2	substantiv	e%a
 5334	945	3	substantiv	%er
 5335	945	4	substantiv	%ene
-5336	946	1	substantiv	å
-5337	946	2	substantiv	åa
-5338	946	3	substantiv	ær
-5339	946	4	substantiv	ærne
+5336	946	1	substantiv	Ã¥
+5337	946	2	substantiv	Ã¥a
+5338	946	3	substantiv	Ã¦r
+5339	946	4	substantiv	Ã¦rne
 5340	947	1	substantiv	-
 5341	947	2	substantiv	-
 5342	947	3	substantiv	%r
@@ -5360,34 +5360,34 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 5359	951	4	substantiv	e+%ene
 5360	952	1	substantiv	o+
 5361	952	2	substantiv	o+a
-5362	952	3	substantiv	ø+er
-5363	952	4	substantiv	ø+ene
+5362	952	3	substantiv	Ã¸+er
+5363	952	4	substantiv	Ã¸+ene
 5364	953	1	substantiv	o
 5365	953	2	substantiv	oa
-5366	953	3	substantiv	ør
-5367	953	4	substantiv	ørne
+5366	953	3	substantiv	Ã¸r
+5367	953	4	substantiv	Ã¸rne
 5368	954	1	substantiv	o+
 5369	954	2	substantiv	o+a
-5370	954	3	substantiv	ø++er
-5371	954	4	substantiv	ø++ene
-5372	955	1	substantiv	å%
-5373	955	2	substantiv	å%a
-5374	955	3	substantiv	æ%er
-5375	955	4	substantiv	æ%ene
-5376	956	1	substantiv	å%
-5377	956	2	substantiv	å%a
-5378	956	3	substantiv	jæ%er
-5379	956	4	substantiv	jæ%ene
-5380	957	1	substantiv	å%
-5381	957	2	substantiv	å%a
+5370	954	3	substantiv	Ã¸++er
+5371	954	4	substantiv	Ã¸++ene
+5372	955	1	substantiv	Ã¥%
+5373	955	2	substantiv	Ã¥%a
+5374	955	3	substantiv	Ã¦%er
+5375	955	4	substantiv	Ã¦%ene
+5376	956	1	substantiv	Ã¥%
+5377	956	2	substantiv	Ã¥%a
+5378	956	3	substantiv	jÃ¦%er
+5379	956	4	substantiv	jÃ¦%ene
+5380	957	1	substantiv	Ã¥%
+5381	957	2	substantiv	Ã¥%a
 5382	957	3	substantiv	je%%
 5383	957	4	substantiv	je%%ene
 5384	959	1	substantiv	ku
 5385	959	2	substantiv	kua
 5386	959	3	substantiv	kyr
 5387	959	4	substantiv	kyrne
-5388	962	1	substantiv	å+%
-5389	962	2	substantiv	å+%a
+5388	962	1	substantiv	Ã¥+%
+5389	962	2	substantiv	Ã¥+%a
 5390	962	3	substantiv	e+%er
 5391	962	4	substantiv	e+%ene
 5392	970	1	substantiv	-
@@ -5398,17 +5398,17 @@ LOEPENR	PARADIGME_ID	BOY_NUMMER	BOY_GRUPPE	BOY_UTTRYKK
 5397	972	2	substantiv	-
 5398	972	3	substantiv	
 5399	972	4	substantiv	ne
-5400	990	1	substantiv, ubøy	
+5400	990	1	substantiv, ubÃ¸y	
 5401	991	1	substantiv	-
 5402	991	2	substantiv	
 5403	991	3	substantiv	-
 5404	991	4	substantiv	-
-5405	994	1	substantiv, ubøy	
-5406	995	1	substantiv, ubøy	
-5407	996	1	substantiv, ubøy	
-5408	997	1	substantiv, ubøy	
+5405	994	1	substantiv, ubÃ¸y	
+5406	995	1	substantiv, ubÃ¸y	
+5407	996	1	substantiv, ubÃ¸y	
+5408	997	1	substantiv, ubÃ¸y	
 5409	998	1	substantiv	-
 5410	998	2	substantiv	-
 5411	998	3	substantiv	
 5412	998	4	substantiv	-
-5413	999	1	substantiv, ubøy	
+5413	999	1	substantiv, ubÃ¸y	
