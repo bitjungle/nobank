@@ -6,14 +6,14 @@ conn = sqlite3.connect("mydict.db")
 conn.execute("PRAGMA foreign_keys = ON;")
 
 files = {
-    "ordbank/boying_grupper.txt": "BOYING_GRUPPER",
-    "ordbank/lemma.txt": "LEMMA",
-    "ordbank/paradigme.txt": "PARADIGME",
-    "ordbank/boying.txt": "BOYING",
-    "ordbank/paradigme_boying.txt": "PARADIGME_BOYING",
-    "ordbank/lemma_paradigme.txt": "LEMMA_PARADIGME",
-    "ordbank/fullformsliste.txt": "FULLFORMSLISTE",
-    "ordbank/leddanalyse.txt": "LEDDANALYSE"
+    "src/ordbank/boying_grupper.txt": "BOYING_GRUPPER",
+    "src/ordbank/lemma.txt": "LEMMA",
+    "src/ordbank/paradigme.txt": "PARADIGME",
+    "src/ordbank/boying.txt": "BOYING",
+    "src/ordbank/paradigme_boying.txt": "PARADIGME_BOYING",
+    "src/ordbank/lemma_paradigme.txt": "LEMMA_PARADIGME",
+    "src/ordbank/fullformsliste.txt": "FULLFORMSLISTE",
+    "src/ordbank/leddanalyse.txt": "LEDDANALYSE"
 }
 
 int_columns = {"LEMMA_ID", "PARADIGME_ID", "BOY_NUMMER", "LEDDANALYSE_ID", "ID"}
