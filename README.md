@@ -24,7 +24,8 @@ Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal 
     - [SQLite](#sqlite)
   - [Installasjon og bruk](#installasjon-og-bruk)
     - [1. Last ned eller klone `nobank` fra GitHub:](#1-last-ned-eller-klone-nobank-fra-github)
-    - [2. Kjør Makefile:](#2-kjør-makefile)
+    - [2. Sett opp virtuelt miljø og installer avhengigheter:](#2-sett-opp-virtuelt-miljø-og-installer-avhengigheter)
+    - [3. Opprett databasen:](#3-opprett-databasen)
   - [Demo CLI: Interaktivt oppslag](#demo-cli-interaktivt-oppslag)
   - [REST API](#rest-api)
     - [Starte API-serveren](#starte-api-serveren)
@@ -54,7 +55,7 @@ Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150 000 lemmae
 │   ├── database.py        # Databasehåndtering
 │   └── run.py             # Server startup script
 ├── src/
-│   ├── ordbank/*          # Mapper med originaldata fra Språkbanken (.txt)
+│   ├── ordbank/*          # Mappe med originaldata fra Språkbanken (.txt)
 │   ├── schema.sql         # SQL-skjema (DDL)
 │   ├── import_data.py     # Import av alle datafiler
 │   ├── sjekk_boy.py       # Hjelpeskript brukt under utvikling av SQL skjema
@@ -71,7 +72,6 @@ Datamodellen er laget med utgangspunkt i strukturen i ordbankens `.txt`-filer fr
 
 ### Hovedvalg og kompromisser
 
-- **SQLite** brukes for enkel lokal bruk uten avhengigheter.
 - `FULLFORMSLISTE` inkluderer ikke `FOREIGN KEY` til `BOYING`, fordi ikke alle `BOY_NUMMER`-verdier kan matches entydig mot en `BOY_GRUPPE`.
 - `LEMMA_ID` i `FULLFORMSLISTE` er ikke en `FOREIGN KEY` for samme grunn – enkelte rader er knyttet til sammensatte uttrykk eller ufullstendige lemma.
 
@@ -118,18 +118,18 @@ Du trenger også `sqlite3` for å opprette og bruke databasen.
 git clone git@github.com:bitjungle/nobank.git
 ```
 
-
-### 2. Kjør Makefile:
+### 2. Sett opp virtuelt miljø og installer avhengigheter:
 
 ```bash
-make all      # = make schema + make import
+make venv requirements
 ```
 
-Alternativt:
+Dette oppretter et virtuelt Python-miljø i `venv`-mappen og installerer alle nødvendige pakker.
+
+### 3. Opprett databasen:
 
 ```bash
-make schema   # Initialiserer databasen
-make import   # Importerer alle data
+make schema import
 ```
 
 ---
@@ -170,7 +170,7 @@ Prosjektet inkluderer også et REST API bygget med [FastAPI](https://fastapi.tia
 make api
 ```
 
-API-serveren kjører som standard på http://127.0.0.1:8000
+Denne kommandoen vil bruke det virtuelle miljøet og starte API-serveren på http://127.0.0.1:8000
 
 ### Endepunkter
 
