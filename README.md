@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/data_license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
 [![License: MIT](https://img.shields.io/badge/code_license-MIT-green.svg)](LICENSE)
-[![Made with Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Made with Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue.svg)](https://sqlite.org/index.html)
 
 Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal SQLite-database – komplett med databasemodell, importscript og et enkelt CLI-verktøy for oppslag av bøyningsformer.
@@ -93,7 +93,7 @@ Du trenger også `sqlite3` for å opprette og bruke databasen.
 
 | Plattform | Installasjon |
 |-----------|--------------|
-| **macOS** | ✅ Allerede installert |
+| **macOS** | Allerede installert |
 | **Linux** | Bruk pakkebehandler:<br>`sudo apt install sqlite3`<br>eller<br>`sudo dnf install sqlite` |
 | **Windows** | Last ned fra:<br>[https://sqlite.org/download.html](https://sqlite.org/download.html)<br><br>Velg **"sqlite-tools" ZIP** under *Precompiled Binaries for Windows*<br><br>Pakk ut og legg `sqlite3.exe` i en mappe som ligger i `PATH` |
 
@@ -153,8 +153,8 @@ Velg ordklasse og oppgi et ord:
 
 ## Kilder og lisens
 
-- 📘 **Data**: [Norsk Ordbank – Språkbanken/NB](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-5/)  
+- **Data**: [Norsk Ordbank – Språkbanken/NB](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-5/)  
   Lisensiert under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/) – fri bruk med kreditering til [Nasjonalbiblioteket](https://www.nb.no/)
-- 💻 **Kode**: Alt Python-innhold i dette prosjektet er lisensiert under [MIT-lisensen](LICENSE)
+- **Kode**: Alt Python-innhold i dette prosjektet er lisensiert under [MIT-lisensen](LICENSE)
 
 ---
