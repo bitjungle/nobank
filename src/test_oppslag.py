@@ -1,8 +1,24 @@
 import sqlite3
 
-def hent_boyinger(ordform: str, ordklasse: str):
-    conn = sqlite3.connect("../mydict.db")
+def koble_til_database():
+    try:
+        conn = sqlite3.connect("mydict.db")
+        # Tester om jeg kan åpne en tabell i databasen
+        cursor = conn.execute("SELECT COUNT(*) FROM LEMMA")
+        cursor.fetchone()[0]
+    except sqlite3.Error as e:
+        try: # Prøver en alternativ plassering av databasen
+            conn = sqlite3.connect("../mydict.db")
+            cursor = conn.execute("SELECT COUNT(*) FROM LEMMA")
+            cursor.fetchone()[0]
+        except sqlite3.Error as e:
+            print(f"❌ Kunne ikke åpne databasen: {e}")
+            raise
     conn.row_factory = sqlite3.Row
+    return conn
+
+def hent_boyinger(ordform: str, ordklasse: str):
+    conn = koble_til_database()
 
     query = """
     SELECT DISTINCT
