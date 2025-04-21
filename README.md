@@ -56,7 +56,7 @@ Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150 000 lemm
 
 ## Datamodell og designvalg
 
-Datamodellen er laget med utgangspunkt i strukturen i ordbankens `.txt`-filer.
+Datamodellen er laget med utgangspunkt i strukturen i ordbankens `.txt`-filer fra Nasjonalbiblioteket. Disse ligger i [src/ordbank](src/ordbank/) og har blitt konvertert fra det opprinnelige `Windows 1252`-formatet til `UTF-8`. Filene er ellers uendret.
 
 ### Hovedvalg og kompromisser
 
@@ -91,12 +91,11 @@ pip install -r requirements.txt
 
 Du trenger også `sqlite3` for å opprette og bruke databasen.
 
-Plattform | Installasjon
-macOS | Allerede installert
-Linux | Bruk pakkebehandler:sudo apt install sqlite3 eller sudo dnf install sqlite
-Windows | Last ned fra: sqlite.org/download.html
-Velg "sqlite-tools" ZIP under Precompiled Binaries for Windows | 
-Pakk ut og legg sqlite3.exe i en mappe som ligger i PATH | 
+| Plattform | Installasjon |
+|-----------|--------------|
+| **macOS** | ✅ Allerede installert |
+| **Linux** | Bruk pakkebehandler:<br>`sudo apt install sqlite3`<br>eller<br>`sudo dnf install sqlite` |
+| **Windows** | Last ned fra:<br>[https://sqlite.org/download.html](https://sqlite.org/download.html)<br><br>Velg **"sqlite-tools" ZIP** under *Precompiled Binaries for Windows*<br><br>Pakk ut og legg `sqlite3.exe` i en mappe som ligger i `PATH` |
 
 ---
 
