@@ -4,8 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/code_license-MIT-green.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue.svg)](https://sqlite.org/index.html)
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
 
-Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal SQLite-database – komplett med databasemodell, importscript og et enkelt CLI-verktøy for oppslag av bøyningsformer.
+Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal SQLite-database – komplett med databasemodell, importscript, et enkelt CLI-verktøy og REST API for oppslag av bøyningsformer.
 
 ---
 
@@ -25,6 +26,10 @@ Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal 
     - [1. Last ned eller klone `nobank` fra GitHub:](#1-last-ned-eller-klone-nobank-fra-github)
     - [2. Kjør Makefile:](#2-kjør-makefile)
   - [Demo CLI: Interaktivt oppslag](#demo-cli-interaktivt-oppslag)
+  - [REST API](#rest-api)
+    - [Starte API-serveren](#starte-api-serveren)
+    - [Endepunkter](#endepunkter)
+    - [Eksempler](#eksempler)
   - [Kilder og lisens](#kilder-og-lisens)
 
 ---
@@ -32,7 +37,7 @@ Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal 
 ## Om Ordbanken
 
 Dette prosjektet bruker [Norsk Ordbank](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-5/) levert av [Nasjonalbiblioteket](https://www.nb.no/).  
-Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150 000 lemmaer, bøyningsparadigmer og over 1 million bøyningsformer.
+Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150 000 lemmaer, bøyningsparadigmer og over 1 million bøyningsformer.
 
 ---
 
@@ -42,6 +47,12 @@ Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150 000 lemm
 .
 ├── Makefile               # Automatiserer databaseoppsett og import
 ├── mydict.db              # SQLite-databasen (genereres)
+├── api/                   # REST API for ordbanken
+│   ├── routes/            # API-endepunkter
+│   ├── main.py            # FastAPI-applikasjon
+│   ├── models.py          # Datamodeller
+│   ├── database.py        # Databasehåndtering
+│   └── run.py             # Server startup script
 ├── src/
 │   ├── ordbank/*          # Mapper med originaldata fra Språkbanken (.txt)
 │   ├── schema.sql         # SQL-skjema (DDL)
@@ -148,6 +159,45 @@ Velg ordklasse og oppgi et ord:
   - biler           subst mask appell fl ub normert     (fl ub → flertall_ubestemt)
   ...
 ```
+
+## REST API
+
+Prosjektet inkluderer også et REST API bygget med [FastAPI](https://fastapi.tiangolo.com/) som gir enkel tilgang til ordbankens innhold fra andre applikasjoner.
+
+### Starte API-serveren
+
+```bash
+make api
+```
+
+API-serveren kjører som standard på http://127.0.0.1:8000
+
+### Endepunkter
+
+| Endepunkt | Beskrivelse | Parametre |
+|-----------|-------------|-----------|
+| `/api/words/{word}` | Henter alle bøyningsformer for et ord | `ordklasse` (valgfri): Filter på ordklasse (f.eks. "verb", "subst") |
+| `/api/search/` | Søker etter ord som starter med en bestemt streng | `q`: Søkestreng<br>`limit` (valgfri): Maks antall resultater (standard: 10) |
+| `/api/ordklasser/` | Lister opp alle tilgjengelige ordklasser | - |
+| `/docs` | Interaktiv API-dokumentasjon | - |
+| `/redoc` | Alternativ API-dokumentasjon | - |
+
+### Eksempler
+
+1. **Hent alle bøyningsformer for et ord**:
+   ```
+   GET /api/words/bil
+   ```
+
+2. **Hent alle bøyningsformer for et verb**:
+   ```
+   GET /api/words/løpe?ordklasse=verb
+   ```
+
+3. **Søk etter ord**:
+   ```
+   GET /api/search/?q=bil&limit=20
+   ```
 
 ---
 
