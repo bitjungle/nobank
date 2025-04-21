@@ -249,11 +249,6 @@ make docker-build
 make docker-run
 ```
 
-Containeren vil:
-1. Sjekke om en database allerede eksisterer i `./data/`-mappen
-2. Hvis ikke, opprette og importere data automatisk
-3. Starte API-serveren på port 8000
-
 API-et er da tilgjengelig på: http://localhost:8000/
 
 ---
