@@ -1,5 +1,6 @@
 import sqlite3
 from pathlib import Path
+import os
 from typing import Optional
 
 def get_db_connection() -> sqlite3.Connection:
@@ -9,14 +10,25 @@ def get_db_connection() -> sqlite3.Connection:
     
     Raises Exception if database cannot be found or connected to.
     """
+    # Environment variable for Docker container
+    db_path_env = os.environ.get("DB_PATH")
     base_dir = Path(__file__).parent.parent
     
     # Try database in different locations
-    possible_paths = [
+    possible_paths = []
+    
+    # First check environment variable if set
+    if db_path_env:
+        possible_paths.append(Path(db_path_env))
+    
+    # Then check Docker data directory
+    possible_paths.extend([
+        Path("/app/data/mydict.db"),
+        base_dir / "data" / "mydict.db",
         base_dir / "mydict.db",
         base_dir.parent / "mydict.db",
         base_dir / "src" / "mydict.db",
-    ]
+    ])
     
     last_error = None
     for db_path in possible_paths:

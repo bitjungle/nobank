@@ -5,6 +5,7 @@
 [![Made with Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue.svg)](https://sqlite.org/index.html)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
 
 Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal SQLite-database – komplett med databasemodell, importscript, et enkelt CLI-verktøy og REST API for oppslag av bøyningsformer.
 
@@ -14,7 +15,7 @@ Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal 
 
 - [nobank - Norsk ordbank (bokmål) med verktøy](#nobank---norsk-ordbank-bokmål-med-verktøy)
   - [Innhold](#innhold)
-  - [Om Ordbanken](#om-ordbanken)
+  - [Om ordbanken](#om-ordbanken)
   - [Prosjektstruktur](#prosjektstruktur)
   - [Datamodell og designvalg](#datamodell-og-designvalg)
     - [Hovedvalg og kompromisser](#hovedvalg-og-kompromisser)
@@ -22,23 +23,27 @@ Et prosjekt som gjør Nasjonalbibliotekets *Norsk Ordbank* søkbar via en lokal 
   - [Krav](#krav)
     - [Python](#python)
     - [SQLite](#sqlite)
+    - [Docker (valgfritt)](#docker-valgfritt)
   - [Installasjon og bruk](#installasjon-og-bruk)
     - [1. Last ned eller klone `nobank` fra GitHub:](#1-last-ned-eller-klone-nobank-fra-github)
     - [2. Sett opp virtuelt miljø og installer avhengigheter:](#2-sett-opp-virtuelt-miljø-og-installer-avhengigheter)
     - [3. Opprett databasen:](#3-opprett-databasen)
+    - [4. Rengjøring og fullstendig ny start (om nødvendig):](#4-rengjøring-og-fullstendig-ny-start-om-nødvendig)
   - [Demo CLI: Interaktivt oppslag](#demo-cli-interaktivt-oppslag)
   - [REST API](#rest-api)
     - [Starte API-serveren](#starte-api-serveren)
     - [Endepunkter](#endepunkter)
     - [Eksempler](#eksempler)
+  - [Docker-støtte](#docker-støtte)
+    - [Bygge og kjøre Docker-containeren](#bygge-og-kjøre-docker-containeren)
   - [Kilder og lisens](#kilder-og-lisens)
 
 ---
 
-## Om Ordbanken
+## Om ordbanken
 
-Dette prosjektet bruker [Norsk Ordbank](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-5/) levert av [Nasjonalbiblioteket](https://www.nb.no/).  
-Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150 000 lemmaer, bøyningsparadigmer og over 1 million bøyningsformer.
+Dette prosjektet bruker [Norsk ordbank](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-5/) levert av [Nasjonalbiblioteket](https://www.nb.no/).  
+Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150&nbsp;000 lemmaer, bøyningsparadigmer og over 1 million bøyningsformer.
 
 ---
 
@@ -46,8 +51,10 @@ Ordbanken er en omfattende leksikalsk ressurs som inneholder over 150 000 lemmae
 
 ```
 .
-├── Makefile               # Automatiserer databaseoppsett og import
+├── Makefile               # Automatiserer databaseoppsett, kjøring av API og bygging av Docker-container
 ├── mydict.db              # SQLite-databasen (genereres)
+├── Dockerfile             # Definisjon for Docker-container
+├── docker-entrypoint.sh   # Oppstartsskript for Docker-containeren
 ├── api/                   # REST API for ordbanken
 │   ├── routes/            # API-endepunkter
 │   ├── main.py            # FastAPI-applikasjon
@@ -88,6 +95,7 @@ Datamodellen er laget med utgangspunkt i strukturen i ordbankens `.txt`-filer fr
 
 - Python ≥ 3.12
 - `sqlite3`
+- Docker (valgfritt)
 
 
 ### Python
@@ -107,6 +115,12 @@ Du trenger også `sqlite3` for å opprette og bruke databasen.
 | **macOS** | Allerede installert |
 | **Linux** | Bruk pakkebehandler:<br>`sudo apt install sqlite3`<br>eller<br>`sudo dnf install sqlite` |
 | **Windows** | Last ned fra:<br>[https://sqlite.org/download.html](https://sqlite.org/download.html)<br><br>Velg **"sqlite-tools" ZIP** under *Precompiled Binaries for Windows*<br><br>Pakk ut og legg `sqlite3.exe` i en mappe som ligger i `PATH` |
+
+### Docker (valgfritt)
+
+For å kjøre API-et i en Docker-container trenger du:
+
+- Docker installert på din maskin: [https://www.docker.com/get-started](https://www.docker.com/get-started)
 
 ---
 
@@ -130,6 +144,12 @@ Dette oppretter et virtuelt Python-miljø i `venv`-mappen og installerer alle n�
 
 ```bash
 make schema import
+```
+
+### 4. Rengjøring og fullstendig ny start (om nødvendig):
+
+```bash
+make clean
 ```
 
 ---
@@ -172,6 +192,8 @@ make api
 
 Denne kommandoen vil bruke det virtuelle miljøet og starte API-serveren på http://127.0.0.1:8000
 
+Alternativt kan du bruke Docker (se nedenfor).
+
 ### Endepunkter
 
 | Endepunkt | Beskrivelse | Parametre |
@@ -198,6 +220,41 @@ Denne kommandoen vil bruke det virtuelle miljøet og starte API-serveren på htt
    ```
    GET /api/search/?q=bil&limit=20
    ```
+
+---
+
+## Docker-støtte
+
+Prosjektet inkluderer Docker-støtte.
+
+### Bygge og kjøre Docker-containeren
+
+Det enkleste er å bruke Makefile for å bygge og kjøre Docker-containeren:
+
+```bash
+make docker
+```
+
+Dette gjør to ting:
+1. Bygger Docker-image (`make docker-build`)
+2. Kjører containeren (`make docker-run`)
+
+Du kan også kjøre disse kommandoene separat om nødvendig:
+
+```bash
+# Bare bygg Docker-image
+make docker-build
+
+# Bare kjør containeren
+make docker-run
+```
+
+Containeren vil:
+1. Sjekke om en database allerede eksisterer i `./data/`-mappen
+2. Hvis ikke, opprette og importere data automatisk
+3. Starte API-serveren på port 8000
+
+API-et er da tilgjengelig på: http://localhost:8000/
 
 ---
 

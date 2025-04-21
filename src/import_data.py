@@ -1,8 +1,18 @@
 import pandas as pd
 import sqlite3
+import os
 from pathlib import Path
 
-conn = sqlite3.connect("mydict.db")
+# Get database path from environment variable or use default paths
+db_path = os.environ.get("DB_PATH", "data/mydict.db")
+if not Path(db_path).exists():
+    if Path("mydict.db").exists():
+        db_path = "mydict.db"
+    elif Path("../mydict.db").exists():
+        db_path = "../mydict.db"
+
+print(f"📊 Bruker database: {db_path}")
+conn = sqlite3.connect(db_path)
 conn.execute("PRAGMA foreign_keys = ON;")
 
 files = {
